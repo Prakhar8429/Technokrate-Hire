@@ -1,0 +1,36 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "1. Run Web (Browser)",
+      "type": "shell",
+      "command": "npm run web",
+      "isBackground": true,
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "2. Start Expo Metro Bundler (QR Code / Expo Go)",
+      "type": "shell",
+      "command": "npm start",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "3. Run Android (Device / Emulator)",
+      "type": "shell",
+      "command": "npm run android",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "4. Build & Sign Release APK (Desktop)",
+      "type": "shell",
+      "command": "npm run build:apk",
+      "problemMatcher": []
+    }
+  ]
+}

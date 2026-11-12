@@ -1,0 +1,6 @@
+
+*.apk
+*.aab
+*.zip
+*.idsig
+node_modules/

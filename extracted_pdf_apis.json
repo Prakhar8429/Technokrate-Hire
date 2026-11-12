@@ -1,0 +1,2498 @@
+[
+  {
+    "page": 2,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/register",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/register",
+    "first_lines": [
+      "JOBSEEKER",
+      "1.",
+      "Register",
+      "Jobseeker"
+    ]
+  },
+  {
+    "page": 3,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/login",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/login",
+    "first_lines": [
+      "}",
+      "2.",
+      "Login",
+      "Jobseeker"
+    ]
+  },
+  {
+    "page": 4,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/send-veri\ufb01cation-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/send-veri\ufb01cation-otp",
+    "first_lines": [
+      "3.",
+      "Send",
+      "Account",
+      "Verification"
+    ]
+  },
+  {
+    "page": 5,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/verify-account",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/verify-account",
+    "first_lines": [
+      "}",
+      "4.",
+      "Verify",
+      "OTP"
+    ]
+  },
+  {
+    "page": 5,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/forget-pass-sendotp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/forget-pass-sendotp",
+    "first_lines": [
+      "}",
+      "4.",
+      "Verify",
+      "OTP"
+    ]
+  },
+  {
+    "page": 6,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/verify-pass-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/verify-pass-otp",
+    "first_lines": [
+      "Authentication",
+      "\u25cf",
+      "Not",
+      "Required"
+    ]
+  },
+  {
+    "page": 7,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/resetpassword",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/resetpassword",
+    "first_lines": [
+      "{",
+      "\"email\"",
+      ":",
+      "\"jay@me.com\""
+    ]
+  },
+  {
+    "page": 8,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/full-pro\ufb01le-details",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/full-pro\ufb01le-details",
+    "first_lines": [
+      "PUT",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/full-pro\ufb01le-details",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 13,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/pro\ufb01le",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/pro\ufb01le",
+    "first_lines": [
+      "\"jobName\"",
+      ":",
+      "\"Backend-Developer\"",
+      ","
+    ]
+  },
+  {
+    "page": 14,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/getCategories",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/getCategories",
+    "first_lines": [
+      "\u25cf",
+      "Required",
+      ":",
+      "\u25cb"
+    ]
+  },
+  {
+    "page": 19,
+    "method": "UNKNOWN",
+    "url": "GET:-https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/gethr/699d8f8621a91508401",
+    "raw_line": "GET:-https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/gethr/699d8f8621a91508401",
+    "first_lines": [
+      "26.get",
+      "report",
+      "by",
+      "dates:-"
+    ]
+  },
+  {
+    "page": 20,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/createEmployer",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/createEmployer",
+    "first_lines": [
+      "59.",
+      "GET",
+      "JOBSEEKER",
+      "BY"
+    ]
+  },
+  {
+    "page": 21,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/getSubCategories/:cat",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/getSubCategories/:cat",
+    "first_lines": [
+      "#HR",
+      "REPORT",
+      "SECTION",
+      "("
+    ]
+  },
+  {
+    "page": 24,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/getDesignation/:subC",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/getDesignation/:subC",
+    "first_lines": [
+      "\"name\"",
+      ":",
+      "\"Human",
+      "Resources\""
+    ]
+  },
+  {
+    "page": 27,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/fetchUserDetails",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/fetchUserDetails",
+    "first_lines": [
+      "GET",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/fetchUserDetails",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 30,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/updatePro\ufb01le",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/updatePro\ufb01le",
+    "first_lines": [
+      "14.",
+      "User",
+      "updateProfile",
+      "JobSeeker"
+    ]
+  },
+  {
+    "page": 37,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/",
+    "first_lines": [
+      "],",
+      "\"createdAt\"",
+      ":",
+      "\"2026-03-13T07:45:31.632Z\""
+    ]
+  },
+  {
+    "page": 41,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/plan/create-order",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/plan/create-order",
+    "first_lines": [
+      "\"planName\"",
+      ":",
+      "\"testing11",
+      "with"
+    ]
+  },
+  {
+    "page": 43,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/getFilterDropDown",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/getFilterDropDown",
+    "first_lines": [
+      "{",
+      "\"message\"",
+      ":",
+      "\"Payment"
+    ]
+  },
+  {
+    "page": 44,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/jobalerts?limi",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/jobalerts?limi",
+    "first_lines": [
+      "\"Data",
+      "Analyst\"",
+      ",",
+      "\"Mobile"
+    ]
+  },
+  {
+    "page": 47,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/apply",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/apply",
+    "first_lines": [
+      "},",
+      "\"jobType\"",
+      ":",
+      "\"Full-Time\""
+    ]
+  },
+  {
+    "page": 48,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/getAppliedJobs?p",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/getAppliedJobs?p",
+    "first_lines": [
+      "Response-",
+      "{",
+      "\"message\"",
+      ":"
+    ]
+  },
+  {
+    "page": 51,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/getJobDetails?jobI",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/job-alert/getJobDetails?jobI",
+    "first_lines": [
+      "},",
+      "\"status\"",
+      ":",
+      "\"active\""
+    ]
+  },
+  {
+    "page": 54,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/saved-job/toggleJob",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/saved-job/toggleJob",
+    "first_lines": [
+      "\"jobResponsibilities\"",
+      ":",
+      "\"Train",
+      "and"
+    ]
+  },
+  {
+    "page": 55,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/saved-job/getSavedJ",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/saved-job/getSavedJ",
+    "first_lines": [
+      "}",
+      "24.",
+      "Get",
+      "SavedJobs"
+    ]
+  },
+  {
+    "page": 57,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/search/jobsearch?page=1&l",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/search/jobsearch?page=1&l",
+    "first_lines": [
+      "25.",
+      "Get",
+      "SearchJob",
+      "GET"
+    ]
+  },
+  {
+    "page": 59,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/info/stats",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/info/stats",
+    "first_lines": [
+      "\"expireDate\"",
+      ":",
+      "\"1",
+      "Days"
+    ]
+  },
+  {
+    "page": 59,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/info/popular-vacancies",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/info/popular-vacancies",
+    "first_lines": [
+      "\"expireDate\"",
+      ":",
+      "\"1",
+      "Days"
+    ]
+  },
+  {
+    "page": 63,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/info/popular-categories",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/info/popular-categories",
+    "first_lines": [
+      "\"69b8e86b739e3712758d7dd6\"",
+      "],",
+      "\"openPositions\"",
+      ":"
+    ]
+  },
+  {
+    "page": 65,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/info/recent-jobs?page=1&limit=",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/info/recent-jobs?page=1&limit=",
+    "first_lines": [
+      "}",
+      "}",
+      "]",
+      "}"
+    ]
+  },
+  {
+    "page": 71,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/info/top-companies",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/info/top-companies",
+    "first_lines": [
+      "\"HTML\"",
+      ",",
+      "\"CSS\"",
+      "],"
+    ]
+  },
+  {
+    "page": 73,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/dashboard?limit=5&jobPage",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/jobseeker/dashboard?limit=5&jobPage",
+    "first_lines": [
+      "\"location\"",
+      ":",
+      "\"Pune\"",
+      ","
+    ]
+  },
+  {
+    "page": 76,
+    "method": "UNKNOWN",
+    "url": "/api/jobseeker/termsAndService/getTerms",
+    "raw_line": "/api/jobseeker/termsAndService/getTerms",
+    "first_lines": [
+      "\"companyLogo\"",
+      ":",
+      "null",
+      "}"
+    ]
+  },
+  {
+    "page": 76,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/signup",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/signup",
+    "first_lines": [
+      "\"companyLogo\"",
+      ":",
+      "null",
+      "}"
+    ]
+  },
+  {
+    "page": 77,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/signin",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/signin",
+    "first_lines": [
+      "Request",
+      "Headers",
+      "Content-Type:",
+      "application/json"
+    ]
+  },
+  {
+    "page": 78,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/requestpasswordreset",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/requestpasswordreset",
+    "first_lines": [
+      "Request",
+      "Body",
+      "-",
+      "{"
+    ]
+  },
+  {
+    "page": 79,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/verifypassotp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/verifypassotp",
+    "first_lines": [
+      "Response",
+      "-",
+      "{",
+      "\"message\":  \"Password  reset  OTP  has  been  sent  to  your  email  and  will  expire  in  15  minutes\""
+    ]
+  },
+  {
+    "page": 80,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/resetpassword",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/resetpassword",
+    "first_lines": [
+      "POST",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/resetpassword",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 80,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/verify/getemailandsendotp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/verify/getemailandsendotp",
+    "first_lines": [
+      "POST",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/resetpassword",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 81,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/verify/verifyemail",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/verify/verifyemail",
+    "first_lines": [
+      "Authentication",
+      "\u25cf",
+      "Required",
+      ":"
+    ]
+  },
+  {
+    "page": 82,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/combine/createdetail",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/combine/createdetail",
+    "first_lines": [
+      "\u25cf",
+      "Required",
+      ":",
+      "\u25cb"
+    ]
+  },
+  {
+    "page": 85,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/combine/updatedetail",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/combine/updatedetail",
+    "first_lines": [
+      "\"longitude\"",
+      ":",
+      "\"72.88261000\"",
+      "},"
+    ]
+  },
+  {
+    "page": 89,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/combine/deletedetail",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/combine/deletedetail",
+    "first_lines": [
+      "10.",
+      "Delete",
+      "combine",
+      "Detail"
+    ]
+  },
+  {
+    "page": 91,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/combine/getdetail",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/combine/getdetail",
+    "first_lines": [
+      "11.",
+      "Get",
+      "User",
+      "Detail"
+    ]
+  },
+  {
+    "page": 94,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/employeeplan/getallplan",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/employeeplan/getallplan",
+    "first_lines": [
+      "}",
+      "Response",
+      "-",
+      "{"
+    ]
+  },
+  {
+    "page": 98,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/job/addjob",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/job/addjob",
+    "first_lines": [
+      "13.",
+      "Create",
+      "Job",
+      "POST"
+    ]
+  },
+  {
+    "page": 102,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/job/getjob/byemployer?page=1&limit=",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/job/getjob/byemployer?page=1&limit=",
+    "first_lines": [
+      "14.",
+      "Get",
+      "all",
+      "jobs"
+    ]
+  },
+  {
+    "page": 103,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/job/updatejob/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/job/updatejob/:id",
+    "first_lines": [
+      "{",
+      "\"_id\"",
+      ":",
+      "\"69d77448a2ec3ae5207e4488\""
+    ]
+  },
+  {
+    "page": 107,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/job/deletejob/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/job/deletejob/:id",
+    "first_lines": [
+      "\"latitude\"",
+      ":",
+      "\"19.07283000\"",
+      ","
+    ]
+  },
+  {
+    "page": 109,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/job/applicants/:id?page=1&limit=10",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/job/applicants/:id?page=1&limit=10",
+    "first_lines": [
+      "17.",
+      "Get",
+      "All",
+      "Applicants"
+    ]
+  },
+  {
+    "page": 111,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/job/jobdetails/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/job/jobdetails/:id",
+    "first_lines": [
+      "18.",
+      "Get",
+      "JobDetails",
+      "GET"
+    ]
+  },
+  {
+    "page": 114,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/category/getallcategory",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/category/getallcategory",
+    "first_lines": [
+      "{",
+      "\"label\"",
+      ":",
+      "\"premium"
+    ]
+  },
+  {
+    "page": 116,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/category/getallsubcategory/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/category/getallsubcategory/",
+    "first_lines": [
+      "]",
+      "}",
+      "20.",
+      "Get"
+    ]
+  },
+  {
+    "page": 118,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/category/getdesignat",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/category/getdesignat",
+    "first_lines": [
+      "21.",
+      "Get",
+      "All",
+      "Designation"
+    ]
+  },
+  {
+    "page": 119,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/job/getApplicantDetails/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/job/getApplicantDetails/:id",
+    "first_lines": [
+      "22.",
+      "Get",
+      "Applicant",
+      "by"
+    ]
+  },
+  {
+    "page": 121,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/candidates/search",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/candidates/search",
+    "first_lines": [
+      "},",
+      "\"educationDetails\"",
+      ":",
+      "["
+    ]
+  },
+  {
+    "page": 131,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/job/matches/:id?page=1&limit=10",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/job/matches/:id?page=1&limit=10",
+    "first_lines": [
+      "24.",
+      "Get",
+      "Job",
+      "Matched"
+    ]
+  },
+  {
+    "page": 134,
+    "method": "UNKNOWN",
+    "url": "/api/employer/dashboard/stats?\ufb01lter=week",
+    "raw_line": "/api/employer/dashboard/stats?\ufb01lter=week",
+    "first_lines": [
+      "#EMPLOYER",
+      "DASHBOARD",
+      "25.",
+      "GET"
+    ]
+  },
+  {
+    "page": 134,
+    "method": "UNKNOWN",
+    "url": "/api/employer/dashboard/recent-jobs?pag",
+    "raw_line": "/api/employer/dashboard/recent-jobs?pag",
+    "first_lines": [
+      "#EMPLOYER",
+      "DASHBOARD",
+      "25.",
+      "GET"
+    ]
+  },
+  {
+    "page": 136,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/termsandconditions",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/termsandconditions",
+    "first_lines": [
+      "\"status\":  \"active\"",
+      ",",
+      "\"applicantCount\":  0",
+      ","
+    ]
+  },
+  {
+    "page": 137,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/plans",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/plans",
+    "first_lines": [
+      "Response:",
+      "{",
+      "\"success\"",
+      ":"
+    ]
+  },
+  {
+    "page": 142,
+    "method": "UNKNOWN",
+    "url": "/api/employer/plans/create-payment-link",
+    "raw_line": "/api/employer/plans/create-payment-link",
+    "first_lines": [
+      "{",
+      "\"success\"",
+      ":",
+      "true"
+    ]
+  },
+  {
+    "page": 143,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/",
+    "first_lines": [
+      "#",
+      "Credit",
+      "Usage",
+      "32."
+    ]
+  },
+  {
+    "page": 150,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/login",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/login",
+    "first_lines": [
+      "Body",
+      ":",
+      "{",
+      "\"phone\""
+    ]
+  },
+  {
+    "page": 151,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/send-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/send-otp",
+    "first_lines": [
+      "Request",
+      "Body",
+      "-",
+      "Send"
+    ]
+  },
+  {
+    "page": 152,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/verify-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/verify-otp",
+    "first_lines": [
+      "Send",
+      "data",
+      "in",
+      "the"
+    ]
+  },
+  {
+    "page": 153,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/reset-password",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/reset-password",
+    "first_lines": [
+      "Response",
+      "-",
+      "4.",
+      "Reset"
+    ]
+  },
+  {
+    "page": 154,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-plan/create",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-plan/create",
+    "first_lines": [
+      "#JOBSEEKER",
+      "PLANS",
+      "5.",
+      "Admin"
+    ]
+  },
+  {
+    "page": 155,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-",
+    "first_lines": [
+      "6.",
+      "Admin",
+      "Job",
+      "seeker"
+    ]
+  },
+  {
+    "page": 157,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-plan/all",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-plan/all",
+    "first_lines": [
+      "7.",
+      "Admin",
+      "Job",
+      "seeker"
+    ]
+  },
+  {
+    "page": 158,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-plan/delete/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-plan/delete/",
+    "first_lines": [
+      "\"canApplyJobsPerMonth\"",
+      ":",
+      "80",
+      ","
+    ]
+  },
+  {
+    "page": 159,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-plan/get/699800927",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobseeker-plan/get/699800927",
+    "first_lines": [
+      "token:",
+      "<JWT_TOKEN>",
+      "Response",
+      "-"
+    ]
+  },
+  {
+    "page": 160,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "token:",
+      "<JWT_TOKEN>",
+      "Content-Type:",
+      "application/json"
+    ]
+  },
+  {
+    "page": 161,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "{",
+      "\"title\"",
+      ":",
+      "\"Database"
+    ]
+  },
+  {
+    "page": 163,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "12.",
+      "Employee",
+      "Plan",
+      "Get"
+    ]
+  },
+  {
+    "page": 165,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "14.",
+      "Employee",
+      "Plan",
+      "Delete"
+    ]
+  },
+  {
+    "page": 166,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "{",
+      "\"label\"",
+      ":",
+      "\"Database\""
+    ]
+  },
+  {
+    "page": 167,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-plan/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-plan/",
+    "first_lines": [
+      "]",
+      "}",
+      "17.",
+      "Employee"
+    ]
+  },
+  {
+    "page": 168,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/custom-plans/create-payment",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/custom-plans/create-payment",
+    "first_lines": [
+      "#CUSTOM",
+      "PLANS",
+      "17.",
+      "Create"
+    ]
+  },
+  {
+    "page": 168,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/custom-plans",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/custom-plans",
+    "first_lines": [
+      "#CUSTOM",
+      "PLANS",
+      "17.",
+      "Create"
+    ]
+  },
+  {
+    "page": 170,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "\"_id\"",
+      ":",
+      "\"69d8a090da23fef03226ce69\"",
+      ","
+    ]
+  },
+  {
+    "page": 171,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "\"planType\"",
+      ":",
+      "\"Bundle_Plans\"",
+      ","
+    ]
+  },
+  {
+    "page": 174,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/createhr",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/createhr",
+    "first_lines": [
+      "#HR",
+      "Management",
+      "19.",
+      "Admin"
+    ]
+  },
+  {
+    "page": 175,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/gethr?page=1&limit=10",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/gethr?page=1&limit=10",
+    "first_lines": [
+      "Response:-",
+      "20.",
+      "Get",
+      "HR"
+    ]
+  },
+  {
+    "page": 177,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/gethr/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/gethr/",
+    "first_lines": [
+      "{",
+      "\"_id\"",
+      ":",
+      "\"699ee75e946a3e559ae7f678\""
+    ]
+  },
+  {
+    "page": 178,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/updatehr/699c028083d20e",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/updatehr/699c028083d20e",
+    "first_lines": [
+      "token:",
+      "<JWT_TOKEN>",
+      "Content-Type:",
+      "application/json"
+    ]
+  },
+  {
+    "page": 179,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/toggle/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/toggle/:id",
+    "first_lines": [
+      "Request",
+      "Body",
+      "-",
+      "Response:-"
+    ]
+  },
+  {
+    "page": 180,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/delete/699c0486e",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/delete/699c0486e",
+    "first_lines": [
+      "\"id\"",
+      ":",
+      "\"69c61efbd2d43bbf8249b8ba\"",
+      ","
+    ]
+  },
+  {
+    "page": 180,
+    "method": "UNKNOWN",
+    "url": "/api/admin/hr/gethr/",
+    "raw_line": "/api/admin/hr/gethr/",
+    "first_lines": [
+      "\"id\"",
+      ":",
+      "\"69c61efbd2d43bbf8249b8ba\"",
+      ","
+    ]
+  },
+  {
+    "page": 182,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/gethr/699d8f86",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/gethr/699d8f86",
+    "first_lines": [
+      "\"date\"",
+      ":",
+      "\"2026-02-23T18:30:00.000Z\"",
+      ","
+    ]
+  },
+  {
+    "page": 185,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/getCandidatePro\ufb01le/:i",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/hr/getCandidatePro\ufb01le/:i",
+    "first_lines": [
+      "27.",
+      "Get",
+      "HR",
+      "Report"
+    ]
+  },
+  {
+    "page": 186,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/getEmployers?",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/getEmployers?",
+    "first_lines": [
+      "#Employe",
+      "Management",
+      "28.GET",
+      "ALL"
+    ]
+  },
+  {
+    "page": 188,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/getEmployer/:i",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/getEmployer/:i",
+    "first_lines": [
+      "\"status\"",
+      ":",
+      "\"active\"",
+      "}"
+    ]
+  },
+  {
+    "page": 192,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/",
+    "first_lines": [
+      "30.DELETE",
+      "Employer",
+      "by",
+      "ID"
+    ]
+  },
+  {
+    "page": 192,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/updateStatus/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/updateStatus/",
+    "first_lines": [
+      "30.DELETE",
+      "Employer",
+      "by",
+      "ID"
+    ]
+  },
+  {
+    "page": 193,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/:id/stats",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/:id/stats",
+    "first_lines": [
+      "Request",
+      "Headers",
+      "Authorization:",
+      "Bearer"
+    ]
+  },
+  {
+    "page": 196,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/:id/jobsList?pa",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/:id/jobsList?pa",
+    "first_lines": [
+      "33.GET",
+      "ALL",
+      "Employer",
+      "Jobs"
+    ]
+  },
+  {
+    "page": 199,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/getJobById/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/getJobById/:id",
+    "first_lines": [
+      "34.GET",
+      "JOB",
+      "by",
+      "ID"
+    ]
+  },
+  {
+    "page": 201,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/",
+    "first_lines": [
+      "],",
+      "\"jobRole\"",
+      ":",
+      "\"Backend"
+    ]
+  },
+  {
+    "page": 205,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobs/getAllJobs?page=1",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobs/getAllJobs?page=1",
+    "first_lines": [
+      "GET",
+      ":",
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobs/getAllJobs?page=1",
+      "&limit=10&jobSubCategoryId=699c405e0edf8444ce88307d&search=Backend"
+    ]
+  },
+  {
+    "page": 206,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/job/getJobById",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/job/getJobById",
+    "first_lines": [
+      "\"id\":  \"69cfa64c091495136f7d73bf\"",
+      ",",
+      "\"name\":  \"Human  Resources\"",
+      "},"
+    ]
+  },
+  {
+    "page": 209,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobs/deleteJob/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobs/deleteJob/:id",
+    "first_lines": [
+      "\"Express\"",
+      "],",
+      "\"jobRole\"",
+      ":"
+    ]
+  },
+  {
+    "page": 210,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobs/deleteJob/getAllSu",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobs/deleteJob/getAllSu",
+    "first_lines": [
+      "ID:",
+      "69c4ea2a9e3e23f599d6e288",
+      "Authentication",
+      "\u25cf"
+    ]
+  },
+  {
+    "page": 214,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/credit-management",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/credit-management",
+    "first_lines": [
+      "},",
+      "{",
+      "\"value\"",
+      ":"
+    ]
+  },
+  {
+    "page": 215,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/credit-management",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/credit-management",
+    "first_lines": [
+      "\"data\"",
+      ":",
+      "{",
+      "\"databaseCredit\""
+    ]
+  },
+  {
+    "page": 216,
+    "method": "UNKNOWN",
+    "url": "/api/admin/termsAndService/createTerms",
+    "raw_line": "/api/admin/termsAndService/createTerms",
+    "first_lines": [
+      "{",
+      "\"success\"",
+      ":",
+      "true"
+    ]
+  },
+  {
+    "page": 217,
+    "method": "UNKNOWN",
+    "url": "/api/admin/termsAndService/getTermsAnd",
+    "raw_line": "/api/admin/termsAndService/getTermsAnd",
+    "first_lines": [
+      "Result",
+      "-",
+      "{",
+      "\"success\""
+    ]
+  },
+  {
+    "page": 218,
+    "method": "UNKNOWN",
+    "url": "/api/admin/termsAndService/updateTerms",
+    "raw_line": "/api/admin/termsAndService/updateTerms",
+    "first_lines": [
+      "}",
+      "userType:job_seeker",
+      "{",
+      "\"success\""
+    ]
+  },
+  {
+    "page": 219,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/createCategory",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/createCategory",
+    "first_lines": [
+      "\"userType\"",
+      ":",
+      "\"job_seeker\"",
+      ","
+    ]
+  },
+  {
+    "page": 220,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getAllCategory",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getAllCategory",
+    "first_lines": [
+      "Response:",
+      "{",
+      "\"success\"",
+      ":"
+    ]
+  },
+  {
+    "page": 221,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/createSubCategory",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/createSubCategory",
+    "first_lines": [
+      "Response-",
+      "{",
+      "\"success\"",
+      ":"
+    ]
+  },
+  {
+    "page": 223,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getSubCategoryByC",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getSubCategoryByC",
+    "first_lines": [
+      "\"_id\"",
+      ":",
+      "\"69d354a18221d24db6c3bf42\"",
+      ","
+    ]
+  },
+  {
+    "page": 227,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/createDesignation",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/createDesignation",
+    "first_lines": [
+      "\"subCategoryName\"",
+      ":",
+      "\"Human",
+      "Resources\""
+    ]
+  },
+  {
+    "page": 229,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getDesignationBySu",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getDesignationBySu",
+    "first_lines": [
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getDesignationBySu",
+      "bCategoryId/",
+      ":subCategoryId",
+      "subCategoryId"
+    ]
+  },
+  {
+    "page": 229,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/updateCategory/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/updateCategory/:id",
+    "first_lines": [
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getDesignationBySu",
+      "bCategoryId/",
+      ":subCategoryId",
+      "subCategoryId"
+    ]
+  },
+  {
+    "page": 231,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/deleteCategory/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/deleteCategory/:id",
+    "first_lines": [
+      "\"createdAt\"",
+      ":",
+      "\"2026-04-06T06:26:49.528Z\"",
+      ","
+    ]
+  },
+  {
+    "page": 232,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/updateSubCategory/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/updateSubCategory/",
+    "first_lines": [
+      "54.",
+      "Update",
+      "SubCategory",
+      "PUT:"
+    ]
+  },
+  {
+    "page": 233,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/deleteSubCategory/:",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/deleteSubCategory/:",
+    "first_lines": [
+      "\"name\"",
+      ":",
+      "\"Sales\"",
+      ","
+    ]
+  },
+  {
+    "page": 234,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/updateDesignation/:i",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/updateDesignation/:i",
+    "first_lines": [
+      "Request",
+      "Headers",
+      "Authorization:",
+      "Bearer"
+    ]
+  },
+  {
+    "page": 236,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/deleteDesignation/:i",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/deleteDesignation/:i",
+    "first_lines": [
+      "\"__v\"",
+      ":",
+      "0",
+      "}"
+    ]
+  },
+  {
+    "page": 237,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getJobsSeekerByDe",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getJobsSeekerByDe",
+    "first_lines": [
+      "58.",
+      "GET",
+      "JOBSEEKERS",
+      "BY"
+    ]
+  },
+  {
+    "page": 245,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getJobsSeekerUser",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getJobsSeekerUser",
+    "first_lines": [
+      "}",
+      "}",
+      "59.",
+      "GET"
+    ]
+  },
+  {
+    "page": 250,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/createEmployer",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/createEmployer",
+    "first_lines": [
+      "}",
+      "],",
+      "\"savedJobs\"",
+      ":"
+    ]
+  },
+  {
+    "page": 253,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getCandid",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getCandid",
+    "first_lines": [
+      "},",
+      "\"_id\":  \"69d38cab4f4b474bcdc27af6\"",
+      ",",
+      "\"createdAt\":  \"2026-04-06T10:36:27.148Z\""
+    ]
+  },
+  {
+    "page": 254,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getCandid",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getCandid",
+    "first_lines": [
+      "Authorization:",
+      "Bearer",
+      "<JWT_TOKEN>",
+      "{"
+    ]
+  },
+  {
+    "page": 256,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getCandid",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getCandid",
+    "first_lines": [
+      "\"name\":  \"Tele  Caller  Excutive\"",
+      "}",
+      "}",
+      "}"
+    ]
+  },
+  {
+    "page": 259,
+    "method": "UNKNOWN",
+    "url": "/api/admin/candidate-database/uploadCan",
+    "raw_line": "/api/admin/candidate-database/uploadCan",
+    "first_lines": [
+      "\"pageSize\"",
+      ":",
+      "10",
+      ","
+    ]
+  },
+  {
+    "page": 260,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/approveCa",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/approveCa",
+    "first_lines": [
+      "Response",
+      "-",
+      "{",
+      "\"success\":  true"
+    ]
+  },
+  {
+    "page": 261,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/rejectCand",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/rejectCand",
+    "first_lines": [
+      "id:69d5fa3ef108b0004f6087ca",
+      "Authentication",
+      "\u25cf",
+      "Required"
+    ]
+  },
+  {
+    "page": 262,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/",
+    "first_lines": [
+      "Response",
+      "-",
+      "{",
+      "\"success\":  true"
+    ]
+  },
+  {
+    "page": 264,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getallCate",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getallCate",
+    "first_lines": [
+      "\"location\"",
+      ":",
+      "{",
+      "\"state\":  \"Maharashtra\""
+    ]
+  },
+  {
+    "page": 265,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getallDesi",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/candidate-database/getallDesi",
+    "first_lines": [
+      "{",
+      "\"_id\":  \"699c34ec0e0575c1fca498d2\"",
+      ",",
+      "\"name\":  \"IT\""
+    ]
+  },
+  {
+    "page": 266,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-billing-transactions",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-billing-transactions",
+    "first_lines": [
+      "GET",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-billing-transactions",
+      "Method  :  GET  Query  Params  :  page  ,  limit  ,  search   Response  -"
+    ]
+  },
+  {
+    "page": 267,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-billing-transactions",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-billing-transactions",
+    "first_lines": [
+      "GET",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-billing-transactions",
+      "/:i"
+    ]
+  },
+  {
+    "page": 268,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "Body  Type  :  form  data    Body  :   hrName:Priya  Singh  designation:Senior  HR  Recruiter  email:priya.singh@example.com  password:password",
+      "Response  -",
+      "{",
+      "\"success\""
+    ]
+  },
+  {
+    "page": 270,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "GET",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+      "freelance-hr/"
+    ]
+  },
+  {
+    "page": 271,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "\"updatedAt\"",
+      ":",
+      "\"2026-04-17T11:59:50.251Z\"",
+      ","
+    ]
+  },
+  {
+    "page": 272,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "}",
+      "}",
+      "74.",
+      "DELETE"
+    ]
+  },
+  {
+    "page": 273,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "Body  :",
+      "{",
+      "\"companyName\"",
+      ":"
+    ]
+  },
+  {
+    "page": 275,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "77.",
+      "GET",
+      "ALL",
+      "Freelance"
+    ]
+  },
+  {
+    "page": 276,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "\"currentPage\"",
+      ":",
+      "1",
+      ","
+    ]
+  },
+  {
+    "page": 277,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "79.",
+      "GET",
+      "Freelance",
+      "Job"
+    ]
+  },
+  {
+    "page": 278,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/",
+    "first_lines": [
+      "Authorization  :  admin   Response  -",
+      "{",
+      "\"success\"",
+      ":"
+    ]
+  },
+  {
+    "page": 279,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "{",
+      "\"success\"",
+      ":",
+      "true"
+    ]
+  },
+  {
+    "page": 280,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin",
+    "first_lines": [
+      "{",
+      "\"success\"",
+      ":",
+      "true"
+    ]
+  },
+  {
+    "page": 281,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/",
+    "first_lines": [
+      "\"message\"",
+      ":",
+      "\"Employer",
+      "plan"
+    ]
+  },
+  {
+    "page": 282,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/auth/login",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/auth/login",
+    "first_lines": [
+      "HR",
+      "1.Login",
+      "HR",
+      "Post:-"
+    ]
+  },
+  {
+    "page": 283,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/auth/send-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/auth/send-otp",
+    "first_lines": [
+      "2.Send",
+      "OTP:-",
+      "POST",
+      "https://new-job-portal-be-2f6y.onrender.com/api/hr/auth/send-otp"
+    ]
+  },
+  {
+    "page": 284,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/auth/verify-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/auth/verify-otp",
+    "first_lines": [
+      "3.Verify",
+      "admin",
+      "Otp:-",
+      "Post:-"
+    ]
+  },
+  {
+    "page": 285,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/auth/reset-password",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/auth/reset-password",
+    "first_lines": [
+      "4.",
+      "Reset",
+      "admin",
+      "password:-"
+    ]
+  },
+  {
+    "page": 286,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/createDailyReport",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/createDailyReport",
+    "first_lines": [
+      "#HR",
+      "REPORT",
+      "SECTION",
+      "("
+    ]
+  },
+  {
+    "page": 288,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/getMyReports?p",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/getMyReports?p",
+    "first_lines": [
+      "\"project\"",
+      ":",
+      "null",
+      ","
+    ]
+  },
+  {
+    "page": 291,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/getReportById/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/getReportById/:id",
+    "first_lines": [
+      "\"_id\"",
+      ":",
+      "\"699c47887934fdba3e459caf\"",
+      ","
+    ]
+  },
+  {
+    "page": 293,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/updateReport/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/updateReport/",
+    "first_lines": [
+      "},",
+      "\"designation\"",
+      ":",
+      "{"
+    ]
+  },
+  {
+    "page": 295,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/deleteReport/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/deleteReport/",
+    "first_lines": [
+      "\"_id\"",
+      ":",
+      "\"699c47887934fdba3e459caf\"",
+      ","
+    ]
+  },
+  {
+    "page": 296,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/getCategories",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/getCategories",
+    "first_lines": [
+      "Authorization:",
+      "Bearer",
+      "<JWT_TOKEN>",
+      "Request"
+    ]
+  },
+  {
+    "page": 298,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/",
+    "first_lines": [
+      "},",
+      "{",
+      "\"_id\"",
+      ":"
+    ]
+  },
+  {
+    "page": 300,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/",
+    "first_lines": [
+      "\"categoryId\"",
+      ":",
+      "{",
+      "\"_id\""
+    ]
+  },
+  {
+    "page": 302,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/",
+    "first_lines": [
+      "}",
+      "13.",
+      "GET",
+      "Interaction"
+    ]
+  },
+  {
+    "page": 303,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/hr/daily-report/",
+    "first_lines": [
+      "14.",
+      "GET",
+      "Candidate",
+      "Status"
+    ]
+  },
+  {
+    "page": 304,
+    "method": "UNKNOWN",
+    "url": "/api/hr/candidate-database/uploadCandida",
+    "raw_line": "/api/hr/candidate-database/uploadCandida",
+    "first_lines": [
+      "#Candidate",
+      "Database",
+      "15.",
+      "Upload"
+    ]
+  },
+  {
+    "page": 305,
+    "method": "UNKNOWN",
+    "url": "/api/hr/candidate-database/getAllCandidat",
+    "raw_line": "/api/hr/candidate-database/getAllCandidat",
+    "first_lines": [
+      "\"fileUrl\"",
+      ":",
+      "\"https://res.cloudinary.com/dusonmyyp/raw/upload/v1775036664/candidate-exc",
+      "el/1775036661724-test.xlsx\""
+    ]
+  },
+  {
+    "page": 306,
+    "method": "UNKNOWN",
+    "url": "/api/hr/jobseeker/getAllCategory",
+    "raw_line": "/api/hr/jobseeker/getAllCategory",
+    "first_lines": [
+      "\"_id\":  \"69cce8f8c36741d5655f9552\"",
+      ",",
+      "\"category\"",
+      ":"
+    ]
+  },
+  {
+    "page": 307,
+    "method": "UNKNOWN",
+    "url": "/api/hr/jobseeker/getJobsSeekerByCatego",
+    "raw_line": "/api/hr/jobseeker/getJobsSeekerByCatego",
+    "first_lines": [
+      "\"name\":  \"Non-IT\"",
+      ",",
+      "\"image\":  \"https://res.cloudinary.com/dusonmyyp/image/upload/v1775569301/jobCategories/tu8ulgcvew6ilekwq6sv.jpg\"",
+      ","
+    ]
+  },
+  {
+    "page": 311,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/blog/create",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/blog/create",
+    "first_lines": [
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/blog/create",
+      "Authentication",
+      "\u25cf",
+      "Required"
+    ]
+  },
+  {
+    "page": 312,
+    "method": "UNKNOWN",
+    "url": "/api/admin/blog/all",
+    "raw_line": "/api/admin/blog/all",
+    "first_lines": [
+      "20.",
+      "Get",
+      "all",
+      "Blog"
+    ]
+  },
+  {
+    "page": 313,
+    "method": "UNKNOWN",
+    "url": "/api/admin/blog/getsingleblog/:id",
+    "raw_line": "/api/admin/blog/getsingleblog/:id",
+    "first_lines": [
+      "\"__v\":  0",
+      "}",
+      "],",
+      "\"pagination\""
+    ]
+  },
+  {
+    "page": 314,
+    "method": "UNKNOWN",
+    "url": "/api/admin/blog/update/:id",
+    "raw_line": "/api/admin/blog/update/:id",
+    "first_lines": [
+      "\"updatedAt\"",
+      ":",
+      "\"2026-04-14T11:28:38.843Z\"",
+      ","
+    ]
+  },
+  {
+    "page": 315,
+    "method": "UNKNOWN",
+    "url": "/api/admin/blog/delete",
+    "raw_line": "/api/admin/blog/delete",
+    "first_lines": [
+      "\"content\"",
+      ":",
+      "\"Node.js",
+      "is"
+    ]
+  },
+  {
+    "page": 316,
+    "method": "UNKNOWN",
+    "url": "/api/info/blogs",
+    "raw_line": "/api/info/blogs",
+    "first_lines": [
+      "24.",
+      "Show",
+      "Blog",
+      "on"
+    ]
+  },
+  {
+    "page": 318,
+    "method": "UNKNOWN",
+    "url": "/api/info/blog/:id",
+    "raw_line": "/api/info/blog/:id",
+    "first_lines": [
+      "https://new-job-portal-be-2f6y.onrender.com",
+      "/api/info/blog/:id",
+      "Id",
+      ":"
+    ]
+  },
+  {
+    "page": 320,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/signup",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/signup",
+    "first_lines": [
+      "Employer",
+      ":-",
+      "Signup",
+      "otp"
+    ]
+  },
+  {
+    "page": 320,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/verify-signup-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/verify-signup-otp",
+    "first_lines": [
+      "Employer",
+      ":-",
+      "Signup",
+      "otp"
+    ]
+  },
+  {
+    "page": 322,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/send-login-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/send-login-otp",
+    "first_lines": [
+      "Login",
+      "otp",
+      "send",
+      "POST"
+    ]
+  },
+  {
+    "page": 322,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/verify-login-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/user/verify-login-otp",
+    "first_lines": [
+      "Login",
+      "otp",
+      "send",
+      "POST"
+    ]
+  },
+  {
+    "page": 324,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/send-email-login-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/send-email-login-otp",
+    "first_lines": [
+      "Login",
+      "using",
+      "email",
+      "send"
+    ]
+  },
+  {
+    "page": 324,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/verify-email-",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/verify-email-",
+    "first_lines": [
+      "Login",
+      "using",
+      "email",
+      "send"
+    ]
+  },
+  {
+    "page": 326,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/changeEmail/settings/empl",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/changeEmail/settings/empl",
+    "first_lines": [
+      "\"CINNumber\":  \"\"",
+      ",",
+      "\"GSTNumber\":  \"\"",
+      ","
+    ]
+  },
+  {
+    "page": 327,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/employer/changeEmail/settings/empl",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/employer/changeEmail/settings/empl",
+    "first_lines": [
+      "\u25cf",
+      "Required",
+      ":",
+      "\u25cb"
+    ]
+  },
+  {
+    "page": 328,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/signup/send-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/signup/send-otp",
+    "first_lines": [
+      "Request",
+      "Body",
+      "{",
+      "\"newEmail\":  \"pkk@gmail.com\""
+    ]
+  },
+  {
+    "page": 329,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/signup/verify-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/signup/verify-otp",
+    "first_lines": [
+      "\"message\":  \"OTP  sent  successfully\"",
+      ",",
+      "\"otp\":  \"7083\"",
+      "}"
+    ]
+  },
+  {
+    "page": 330,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/send-login-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/send-login-otp",
+    "first_lines": [
+      "POST",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/send-login-otp",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 330,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/",
+    "first_lines": [
+      "POST",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/send-login-otp",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 331,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/login",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/login",
+    "first_lines": [
+      "{",
+      "\"message\":  \"Login  Successful\"",
+      ",",
+      "\"_id\":  \"6a51dabe9931305df2b8fc72\""
+    ]
+  },
+  {
+    "page": 332,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/verify-phone-otp",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/auth/admin/verify-phone-otp",
+    "first_lines": [
+      "{",
+      "\"success\":  true,",
+      "\"message\":  \"OTP  sent",
+      "successfully\","
+    ]
+  },
+  {
+    "page": 333,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/dashboard",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/dashboard",
+    "first_lines": [
+      "Response",
+      "Admin",
+      "dashboard",
+      ":-"
+    ]
+  },
+  {
+    "page": 334,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/social/links",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/social/links",
+    "first_lines": [
+      "}",
+      "}",
+      "Admin",
+      "SocialLinks"
+    ]
+  },
+  {
+    "page": 336,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/create",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/create",
+    "first_lines": [
+      "POST",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/create",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 336,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/all",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/all",
+    "first_lines": [
+      "POST",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/create",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 338,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/all?userType=Employer",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/all?userType=Employer",
+    "first_lines": [
+      "GET",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/all?userType=Employer",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 338,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/all?search=job&userType=JobSee",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/all?search=job&userType=JobSee",
+    "first_lines": [
+      "GET",
+      "-",
+      "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/all?userType=Employer",
+      "Authentication"
+    ]
+  },
+  {
+    "page": 339,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/6a52901f624ebb2febb0dc6d",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/6a52901f624ebb2febb0dc6d",
+    "first_lines": [
+      "\u25cf",
+      "Required",
+      ":",
+      "\u25cb"
+    ]
+  },
+  {
+    "page": 340,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/update/6a52901f624ebb2febb0dc6d",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/update/6a52901f624ebb2febb0dc6d",
+    "first_lines": [
+      "Response",
+      "{",
+      "\"success\":  true",
+      ","
+    ]
+  },
+  {
+    "page": 341,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/delete/:id",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/delete/:id",
+    "first_lines": [
+      "\"data\":",
+      "{",
+      "\"_id\":  \"6a52901f624ebb2febb0dc6d\"",
+      ","
+    ]
+  },
+  {
+    "page": 342,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/termsAndService/terms",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/termsAndService/terms",
+    "first_lines": [
+      "Admin",
+      "terms",
+      "and",
+      "services"
+    ]
+  },
+  {
+    "page": 343,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/termsAndService/",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/termsAndService/",
+    "first_lines": [
+      "}",
+      "GET",
+      "Terms",
+      "And"
+    ]
+  },
+  {
+    "page": 343,
+    "method": "UNKNOWN",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/termsAndService/terms",
+    "raw_line": "https://new-job-portal-be-2f6y.onrender.com/api/admin/termsAndService/terms",
+    "first_lines": [
+      "}",
+      "GET",
+      "Terms",
+      "And"
+    ]
+  },
+  {
+    "page": 346,
+    "method": "UNKNOWN",
+    "url": "/api/admin/candidate-database/uploadCandidateDatabase",
+    "raw_line": "/api/admin/candidate-database/uploadCandidateDatabase",
+    "first_lines": [
+      "POST",
+      "Upload",
+      "Candidate",
+      "Database"
+    ]
+  },
+  {
+    "page": 346,
+    "method": "UNKNOWN",
+    "url": "/api/hr/candidate-database/uploadCandidateDatabase",
+    "raw_line": "/api/hr/candidate-database/uploadCandidateDatabase",
+    "first_lines": [
+      "POST",
+      "Upload",
+      "Candidate",
+      "Database"
+    ]
+  },
+  {
+    "page": 347,
+    "method": "UNKNOWN",
+    "url": "/api/admin/candidate-database/approveCandidateDatabase/:id",
+    "raw_line": "/api/admin/candidate-database/approveCandidateDatabase/:id",
+    "first_lines": [
+      "\"createdAt\":  \"2026-07-20T12:00:00.000Z\"   }  }",
+      "PUT",
+      "Approve",
+      "Candidate"
+    ]
+  },
+  {
+    "page": 347,
+    "method": "UNKNOWN",
+    "url": "/api/admin/candidate-database/rejectCandidateDatabase/:id",
+    "raw_line": "/api/admin/candidate-database/rejectCandidateDatabase/:id",
+    "first_lines": [
+      "\"createdAt\":  \"2026-07-20T12:00:00.000Z\"   }  }",
+      "PUT",
+      "Approve",
+      "Candidate"
+    ]
+  },
+  {
+    "page": 348,
+    "method": "UNKNOWN",
+    "url": "/api/hr/candidate-database/delete/:id",
+    "raw_line": "/api/hr/candidate-database/delete/:id",
+    "first_lines": [
+      "\"message\":  \"Upload  rejected.  Candidates  and  Excel  file  removed.\",    \"status\":  \"Rejected\" }",
+      "DELETE",
+      "Delete",
+      "Candidate"
+    ]
+  },
+  {
+    "page": 350,
+    "method": "UNKNOWN",
+    "url": "/api/admin/candidate-database/getexcelData/:id",
+    "raw_line": "/api/admin/candidate-database/getexcelData/:id",
+    "first_lines": [
+      "GET",
+      "Get",
+      "Excel",
+      "Data"
+    ]
+  },
+  {
+    "page": 350,
+    "method": "UNKNOWN",
+    "url": "/api/admin/candidate-database/uploadCandidateDatabase",
+    "raw_line": "/api/admin/candidate-database/uploadCandidateDatabase",
+    "first_lines": [
+      "GET",
+      "Get",
+      "Excel",
+      "Data"
+    ]
+  },
+  {
+    "page": 350,
+    "method": "UNKNOWN",
+    "url": "/api/hr/candidate-database/uploadCandidateDatabase",
+    "raw_line": "/api/hr/candidate-database/uploadCandidateDatabase",
+    "first_lines": [
+      "GET",
+      "Get",
+      "Excel",
+      "Data"
+    ]
+  },
+  {
+    "page": 352,
+    "method": "UNKNOWN",
+    "url": "---   ###  `PUT`  Approve  Candidate  Database   **URL:**  `/api/admin/candidate-database/approveCandidateDatabase/:id`   **Headers:**",
+    "raw_line": "---   ###  `PUT`  Approve  Candidate  Database   **URL:**  `/api/admin/candidate-database/approveCandidateDatabase/:id`   **Headers:**",
+    "first_lines": [
+      "\"createdAt\":  \"2026-07-20T12:00:00.000Z\"   }  }",
+      "Error",
+      "Responses:",
+      "Statu"
+    ]
+  },
+  {
+    "page": 352,
+    "method": "UNKNOWN",
+    "url": "/api/admin/candidate-database/rejectCandidateDatabase/:id",
+    "raw_line": "/api/admin/candidate-database/rejectCandidateDatabase/:id",
+    "first_lines": [
+      "\"createdAt\":  \"2026-07-20T12:00:00.000Z\"   }  }",
+      "Error",
+      "Responses:",
+      "Statu"
+    ]
+  },
+  {
+    "page": 353,
+    "method": "UNKNOWN",
+    "url": "/api/admin/candidate-database/updateCandidateDatabase/:id",
+    "raw_line": "/api/admin/candidate-database/updateCandidateDatabase/:id",
+    "first_lines": [
+      "Headers:",
+      "Authorization:  Bearer  <admin_token>",
+      "What",
+      "happens:"
+    ]
+  }
+]

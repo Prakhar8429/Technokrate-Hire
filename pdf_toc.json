@@ -1,0 +1,462 @@
+[
+  {
+    "page": 1,
+    "header": "Backend | APIS"
+  },
+  {
+    "page": 2,
+    "header": "JOBSEEKER | 1. | Register"
+  },
+  {
+    "page": 6,
+    "header": "Authentication | \u25cf | Not"
+  },
+  {
+    "page": 8,
+    "header": "PUT | - | https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/full-pro\ufb01le-details"
+  },
+  {
+    "page": 13,
+    "header": "\"jobName\" | : | \"Backend-Developer\""
+  },
+  {
+    "page": 16,
+    "header": "2. | Login | Jobseeker"
+  },
+  {
+    "page": 18,
+    "header": "1.Login | admin | Post:-"
+  },
+  {
+    "page": 19,
+    "header": "26.get | report | by"
+  },
+  {
+    "page": 20,
+    "header": "59. | GET | JOBSEEKER"
+  },
+  {
+    "page": 27,
+    "header": "GET | - | https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/fetchUserDetails"
+  },
+  {
+    "page": 36,
+    "header": "\"photo\" | : | \"https://res.cloudinary.com/desuloqa3/image/upload/v1773828982/jobseeker_d"
+  },
+  {
+    "page": 38,
+    "header": "Authentication | \u25cf | Not"
+  },
+  {
+    "page": 45,
+    "header": "Developer&desiredSalary={\"minSalary\":30000,\"maxSalary\":100000}&preferredLocation= | Mumbai | Authentication"
+  },
+  {
+    "page": 47,
+    "header": "}, | \"jobType\" | :"
+  },
+  {
+    "page": 52,
+    "header": "Authentication | \u25cf | Not"
+  },
+  {
+    "page": 54,
+    "header": "\"jobResponsibilities\" | : | \"Train"
+  },
+  {
+    "page": 55,
+    "header": "} | 24. | Get"
+  },
+  {
+    "page": 57,
+    "header": "25. | Get | SearchJob"
+  },
+  {
+    "page": 60,
+    "header": "Authentication | \u25cf | Not"
+  },
+  {
+    "page": 61,
+    "header": "{ | \"jobTitle\" | :"
+  },
+  {
+    "page": 62,
+    "header": "{ | \"jobTitle\" | :"
+  },
+  {
+    "page": 66,
+    "header": "} | }, | \"jobTitle\""
+  },
+  {
+    "page": 67,
+    "header": "\"jobTitle\" | : | \"test\""
+  },
+  {
+    "page": 69,
+    "header": "\"jobTitle\" | : | \"nvuyh\""
+  },
+  {
+    "page": 80,
+    "header": "POST | - | https://new-job-portal-be-2f6y.onrender.com/api/employer/user/resetpassword"
+  },
+  {
+    "page": 81,
+    "header": "Authentication | \u25cf | Required"
+  },
+  {
+    "page": 86,
+    "header": "Authentication | \u25cf | Required"
+  },
+  {
+    "page": 89,
+    "header": "10. | Delete | combine"
+  },
+  {
+    "page": 91,
+    "header": "11. | Get | User"
+  },
+  {
+    "page": 95,
+    "header": "Authentication | \u25cf | Required"
+  },
+  {
+    "page": 98,
+    "header": "13. | Create | Job"
+  },
+  {
+    "page": 99,
+    "header": "}, | \"jobDescription\" | :"
+  },
+  {
+    "page": 100,
+    "header": "\"jobLevel\" | : | \"Entry-Level\""
+  },
+  {
+    "page": 102,
+    "header": "14. | Get | all"
+  },
+  {
+    "page": 104,
+    "header": "\"jobTitle\" | : | \"Backend"
+  },
+  {
+    "page": 109,
+    "header": "17. | Get | All"
+  },
+  {
+    "page": 111,
+    "header": "18. | Get | JobDetails"
+  },
+  {
+    "page": 118,
+    "header": "21. | Get | All"
+  },
+  {
+    "page": 119,
+    "header": "22. | Get | Applicant"
+  },
+  {
+    "page": 131,
+    "header": "24. | Get | Job"
+  },
+  {
+    "page": 134,
+    "header": "#EMPLOYER | DASHBOARD | 25."
+  },
+  {
+    "page": 135,
+    "header": "Authentication | \u25cf | Required"
+  },
+  {
+    "page": 140,
+    "header": "\"planType\" | : | \"Job_Posting\""
+  },
+  {
+    "page": 141,
+    "header": "\"jobCredits\" | : | 0"
+  },
+  {
+    "page": 146,
+    "header": "} | 35. | POST"
+  },
+  {
+    "page": 147,
+    "header": "https://new-job-portal-be-2f6y.onrender.com/api | /employer/billing-transactions | Authentication"
+  },
+  {
+    "page": 149,
+    "header": "Authentication | Required | Response"
+  },
+  {
+    "page": 154,
+    "header": "#JOBSEEKER | PLANS | 5."
+  },
+  {
+    "page": 155,
+    "header": "6. | Admin | Job"
+  },
+  {
+    "page": 157,
+    "header": "7. | Admin | Job"
+  },
+  {
+    "page": 158,
+    "header": "\"canApplyJobsPerMonth\" | : | 80"
+  },
+  {
+    "page": 162,
+    "header": "Method | : | GET"
+  },
+  {
+    "page": 175,
+    "header": "Response:- | 20. | Get"
+  },
+  {
+    "page": 185,
+    "header": "27. | Get | HR"
+  },
+  {
+    "page": 186,
+    "header": "#Employe | Management | 28.GET"
+  },
+  {
+    "page": 192,
+    "header": "30.DELETE | Employer | by"
+  },
+  {
+    "page": 193,
+    "header": "Request | Headers | Authorization:"
+  },
+  {
+    "page": 196,
+    "header": "33.GET | ALL | Employer"
+  },
+  {
+    "page": 198,
+    "header": "\"jobId\" | : | \"69c3c9b1994e32c39bacc699\""
+  },
+  {
+    "page": 199,
+    "header": "34.GET | JOB | by"
+  },
+  {
+    "page": 200,
+    "header": "\"jobType\" | : | \"Full-Time\""
+  },
+  {
+    "page": 201,
+    "header": "], | \"jobRole\" | :"
+  },
+  {
+    "page": 202,
+    "header": "id: | 69c3a5027708f402ccb7b90b | Authentication"
+  },
+  {
+    "page": 205,
+    "header": "GET | : | https://new-job-portal-be-2f6y.onrender.com/api/admin/jobs/getAllJobs?page=1"
+  },
+  {
+    "page": 209,
+    "header": "\"Express\" | ], | \"jobRole\""
+  },
+  {
+    "page": 210,
+    "header": "ID: | 69c4ea2a9e3e23f599d6e288 | Authentication"
+  },
+  {
+    "page": 211,
+    "header": "Request | Headers | Authorization:"
+  },
+  {
+    "page": 218,
+    "header": "} | userType:job_seeker | {"
+  },
+  {
+    "page": 219,
+    "header": "\"userType\" | : | \"job_seeker\""
+  },
+  {
+    "page": 226,
+    "header": "\"image\" | : | \"http://res.cloudinary.com/dusonmyyp/image/upload/v1771847773/jobSeekerSubCategories/jtun3r"
+  },
+  {
+    "page": 229,
+    "header": "https://new-job-portal-be-2f6y.onrender.com/api/admin/jobSeeker/getDesignationBySu | bCategoryId/ | :subCategoryId"
+  },
+  {
+    "page": 234,
+    "header": "Request | Headers | Authorization:"
+  },
+  {
+    "page": 237,
+    "header": "58. | GET | JOBSEEKERS"
+  },
+  {
+    "page": 239,
+    "header": "\"jobCategory\" | : | {"
+  },
+  {
+    "page": 242,
+    "header": "\"jobRole\" | : | {"
+  },
+  {
+    "page": 247,
+    "header": "{ | \"jobTitle\" | :"
+  },
+  {
+    "page": 248,
+    "header": "\"photo\" | : | \"https://res.cloudinary.com/dusonmyyp/image/upload/v1774249490/jobseeker_d"
+  },
+  {
+    "page": 250,
+    "header": "} | ], | \"savedJobs\""
+  },
+  {
+    "page": 254,
+    "header": "Authorization: | Bearer | <JWT_TOKEN>"
+  },
+  {
+    "page": 255,
+    "header": "Authentication | \u25cf | Required"
+  },
+  {
+    "page": 261,
+    "header": "id:69d5fa3ef108b0004f6087ca | Authentication | \u25cf"
+  },
+  {
+    "page": 266,
+    "header": "GET | - | https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-billing-transactions"
+  },
+  {
+    "page": 267,
+    "header": "GET | - | https://new-job-portal-be-2f6y.onrender.com/api/admin/employer-billing-transactions"
+  },
+  {
+    "page": 269,
+    "header": "Authentication | : | required"
+  },
+  {
+    "page": 270,
+    "header": "GET | - | https://new-job-portal-be-2f6y.onrender.com/api/admin/"
+  },
+  {
+    "page": 274,
+    "header": "Authentication | : | required"
+  },
+  {
+    "page": 275,
+    "header": "77. | GET | ALL"
+  },
+  {
+    "page": 277,
+    "header": "79. | GET | Freelance"
+  },
+  {
+    "page": 278,
+    "header": "Authorization  :  admin   Response  - | { | \"success\""
+  },
+  {
+    "page": 281,
+    "header": "\"message\" | : | \"Employer"
+  },
+  {
+    "page": 283,
+    "header": "2.Send | OTP:- | POST"
+  },
+  {
+    "page": 294,
+    "header": "Request | Headers | Authorization:"
+  },
+  {
+    "page": 296,
+    "header": "Authorization: | Bearer | <JWT_TOKEN>"
+  },
+  {
+    "page": 302,
+    "header": "} | 13. | GET"
+  },
+  {
+    "page": 303,
+    "header": "14. | GET | Candidate"
+  },
+  {
+    "page": 307,
+    "header": "\"name\":  \"Non-IT\" | , | \"image\":  \"https://res.cloudinary.com/dusonmyyp/image/upload/v1775569301/jobCategories/tu8ulgcve"
+  },
+  {
+    "page": 310,
+    "header": "\"jobCategory\" | : | \"Non-IT\""
+  },
+  {
+    "page": 311,
+    "header": "https://new-job-portal-be-2f6y.onrender.com/api/admin/blog/create | Authentication | \u25cf"
+  },
+  {
+    "page": 312,
+    "header": "20. | Get | all"
+  },
+  {
+    "page": 318,
+    "header": "https://new-job-portal-be-2f6y.onrender.com | /api/info/blog/:id | Id"
+  },
+  {
+    "page": 319,
+    "header": "R-apis"
+  },
+  {
+    "page": 320,
+    "header": "Employer | :- | Signup"
+  },
+  {
+    "page": 330,
+    "header": "POST | - | https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/send-login-otp"
+  },
+  {
+    "page": 335,
+    "header": "Authentication | \u25cf | Required"
+  },
+  {
+    "page": 336,
+    "header": "POST | - | https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/create"
+  },
+  {
+    "page": 338,
+    "header": "GET | - | https://new-job-portal-be-2f6y.onrender.com/api/admin/faqs/all?userType=Employer"
+  },
+  {
+    "page": 343,
+    "header": "} | GET | Terms"
+  },
+  {
+    "page": 344,
+    "header": "Authentication | \u25cf | Required"
+  },
+  {
+    "page": 346,
+    "header": "POST | Upload | Candidate"
+  },
+  {
+    "page": 347,
+    "header": "\"createdAt\":  \"2026-07-20T12:00:00.000Z\"   }  } | PUT | Approve"
+  },
+  {
+    "page": 348,
+    "header": "\"message\":  \"Upload  rejected.  Candidates  and  Excel  file  removed.\",    \"status\":  \"Rejected\" } | DELETE | Delete"
+  },
+  {
+    "page": 349,
+    "header": "Admin-Candidate-API"
+  },
+  {
+    "page": 350,
+    "header": "GET | Get | Excel"
+  },
+  {
+    "page": 351,
+    "header": "Headers: | Authorization:  Bearer  <token>  Content-Type:  application/json | Body"
+  },
+  {
+    "page": 353,
+    "header": "Headers: | Authorization:  Bearer  <admin_token> | What"
+  }
+]

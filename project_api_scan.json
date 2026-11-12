@@ -1,0 +1,530 @@
+{
+  "app\\application-status.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "jobService.getApplicationTimeline",
+      "jobService.getApplicationTimeline"
+    ],
+    "api_constants": []
+  },
+  "app\\applied-jobs.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "jobService.getTrackingSummary",
+      "jobService.getAppliedJobsWithStatus",
+      "jobService.getTrackingSummary",
+      "jobService.toggleSaveJob"
+    ],
+    "api_constants": []
+  },
+  "app\\hr-updates.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "jobService.getTrackingSummary",
+      "jobService.getHRUpdates",
+      "jobService.getTrackingSummary"
+    ],
+    "api_constants": []
+  },
+  "app\\saved-jobs.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "jobService.getTrackingSummary",
+      "jobService.getSavedJobsWithStatus",
+      "jobService.getTrackingSummary",
+      "jobService.toggleSaveJob"
+    ],
+    "api_constants": []
+  },
+  "app\\(tabs)\\alerts.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "jobAlertService.getActiveAlerts",
+      "jobAlertService.getAlertHistory",
+      "jobAlertService.getFilters",
+      "jobAlertService.toggleAlert",
+      "jobAlertService.saveFilters",
+      "jobAlertService.saveFilters",
+      "jobAlertService.saveFilters",
+      "jobAlertService.saveFilters",
+      "jobAlertService.resetFilters",
+      "jobAlertService.filterAlerts"
+    ],
+    "api_constants": []
+  },
+  "app\\(tabs)\\dashboard.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "jobService.getDashboardMetrics",
+      "jobService.searchJobs",
+      "jobService.getDashboardMetrics",
+      "jobService.toggleSaveJob",
+      "jobService.searchJobs",
+      "jobService.getDashboardMetrics",
+      "jobService.applyForJob",
+      "jobService.searchJobs",
+      "jobService.getDashboardMetrics"
+    ],
+    "api_constants": []
+  },
+  "app\\(tabs)\\jobs.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "jobService.getFilterOptions",
+      "jobService.getSavedJobs",
+      "jobService.getAppliedJobs",
+      "jobService.searchJobs",
+      "jobService.toggleSaveJob",
+      "jobService.applyForJob"
+    ],
+    "api_constants": []
+  },
+  "app\\auth\\login.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.updateUserProfile",
+      "candidateService.getUserProfile",
+      "candidateService.isUserRegistered",
+      "candidateService.authenticateUser",
+      "candidateService.updateUserProfile",
+      "candidateService.getUserProfile"
+    ],
+    "api_constants": []
+  },
+  "app\\auth\\register.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.updateUserProfile",
+      "candidateService.registerLocalUser",
+      "candidateService.registerLocalUser",
+      "candidateService.updateUserProfile"
+    ],
+    "api_constants": []
+  },
+  "app\\auth\\reset-password.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.updateUserPassword"
+    ],
+    "api_constants": []
+  },
+  "app\\auth\\verify-account.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.updateUserProfile"
+    ],
+    "api_constants": []
+  },
+  "app\\jobs\\filter.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "jobAlertService.getFilters",
+      "jobAlertService.getFilterDropdownOptions",
+      "jobAlertService.resetFilters",
+      "jobAlertService.saveFilters"
+    ],
+    "api_constants": []
+  },
+  "app\\jobs\\[id].jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "jobService.toggleSaveJob",
+      "jobService.applyForJob",
+      "applicationService.initForJob",
+      "jobService.withdrawApplication"
+    ],
+    "api_constants": []
+  },
+  "app\\jobs\\apply\\contact.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "applicationService.getApplicationData",
+      "applicationService.updateApplicationData",
+      "applicationService.updateApplicationData"
+    ],
+    "api_constants": []
+  },
+  "app\\jobs\\apply\\documents.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "applicationService.getApplicationData",
+      "applicationService.updateApplicationData"
+    ],
+    "api_constants": []
+  },
+  "app\\jobs\\apply\\location.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "applicationService.getApplicationData",
+      "applicationService.updateApplicationData",
+      "applicationService.updateApplicationData"
+    ],
+    "api_constants": []
+  },
+  "app\\jobs\\apply\\resume.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "applicationService.getApplicationData",
+      "applicationService.updateApplicationData",
+      "applicationService.updateApplicationData",
+      "applicationService.updateApplicationData",
+      "applicationService.updateApplicationData"
+    ],
+    "api_constants": []
+  },
+  "app\\jobs\\apply\\review.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "applicationService.getApplicationData",
+      "applicationService.updateApplicationData",
+      "applicationService.updateApplicationData"
+    ],
+    "api_constants": []
+  },
+  "app\\jobs\\apply\\submitting.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "applicationService.getApplicationData",
+      "jobService.applyForJob"
+    ],
+    "api_constants": []
+  },
+  "app\\jobs\\apply\\success.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "applicationService.getApplicationData"
+    ],
+    "api_constants": []
+  },
+  "app\\onboarding\\certification.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.saveCertifications"
+    ],
+    "api_constants": []
+  },
+  "app\\onboarding\\index.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.getGenderOptions",
+      "candidateService.getCategories",
+      "candidateService.getLocations",
+      "candidateService.getSubCategories",
+      "candidateService.getDesignations",
+      "candidateService.saveBasicDetails",
+      "candidateService.getSubCategories",
+      "candidateService.getDesignations"
+    ],
+    "api_constants": []
+  },
+  "app\\onboarding\\skills-preference.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.getFallbackDesignations",
+      "candidateService.getFallbackLocations",
+      "candidateService.getSalaryOptions",
+      "candidateService.getPreferredDesignations",
+      "candidateService.getLocations",
+      "candidateService.saveSkillsAndPreferences"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\edit.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.getUserProfile",
+      "candidateService.updateUserProfile",
+      "candidateService.updateUserProfile",
+      "candidateService.saveBasicDetails"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\index.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.getUserProfile",
+      "candidateService.getCurrentResume",
+      "preferenceService.getPreferences",
+      "candidateService.updateUserProfile",
+      "candidateService.getUserProfile",
+      "candidateService.getUserProfile",
+      "candidateService.getUserProfile",
+      "candidateService.getCurrentResume",
+      "preferenceService.getPreferences",
+      "candidateService.setResume",
+      "candidateService.setResume",
+      "candidateService.deleteResume"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\add-job-title.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.addJobTitle"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\availability.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.getPreferences",
+      "preferenceService.updateAvailability",
+      "preferenceService.deletePreferenceSection"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\commute.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.getPreferences",
+      "preferenceService.updateCommute",
+      "preferenceService.deletePreferenceSection"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\job-titles.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.getPreferences",
+      "preferenceService.updateJobTitles",
+      "preferenceService.deletePreferenceSection"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\job-types.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.getPreferences",
+      "preferenceService.updateJobTypes",
+      "preferenceService.deletePreferenceSection"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\location-search.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.addRelocationLocation",
+      "preferenceService.addRelocationLocation"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\pay.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.getPreferences",
+      "preferenceService.updateMinimumPay",
+      "preferenceService.deletePreferenceSection"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\relocation.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.getPreferences",
+      "preferenceService.removeRelocationLocation",
+      "preferenceService.updateRelocation",
+      "preferenceService.deletePreferenceSection"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\remote.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.getPreferences",
+      "preferenceService.updateRemotePreference",
+      "preferenceService.deletePreferenceSection"
+    ],
+    "api_constants": []
+  },
+  "app\\profile\\preferences\\work-schedule.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "preferenceService.getPreferences",
+      "preferenceService.updateWorkSchedule",
+      "preferenceService.deletePreferenceSection"
+    ],
+    "api_constants": []
+  },
+  "components\\AppHeader.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.getUserProfile"
+    ],
+    "api_constants": []
+  },
+  "components\\ProfileStepper.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.setProfileCompleted"
+    ],
+    "api_constants": []
+  },
+  "components\\application\\ApplicationHeader.jsx": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "applicationService.getApplicationData"
+    ],
+    "api_constants": []
+  },
+  "services\\applicationService.js": {
+    "fetches": [],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.getUserProfile",
+      "candidateService.getCurrentResume"
+    ],
+    "api_constants": []
+  },
+  "services\\candidateService.js": {
+    "fetches": [
+      "${API_BASE_URL}${API_ENDPOINTS.CATEGORIES}",
+      "${API_BASE_URL}${API_ENDPOINTS.SUB_CATEGORIES(categoryId)}",
+      "${API_BASE_URL}${API_ENDPOINTS.DESIGNATIONS(subCategoryId)}",
+      "${API_BASE_URL}${API_ENDPOINTS.JOB_FILTER_DROPDOWNS}",
+      "${API_BASE_URL}${API_ENDPOINTS.UPDATE_PROFILE}",
+      "${API_BASE_URL}${API_ENDPOINTS.JOB_FILTER_DROPDOWNS}",
+      "${API_BASE_URL}${API_ENDPOINTS.UPDATE_PROFILE}",
+      "${API_BASE_URL}${API_ENDPOINTS.UPDATE_PROFILE}",
+      "${API_BASE_URL}${API_ENDPOINTS.FETCH_USER_DETAILS}"
+    ],
+    "async_storage": [
+      [
+        "getItem",
+        "@registered_users_store"
+      ],
+      [
+        "setItem",
+        "@registered_users_store"
+      ],
+      [
+        "setItem",
+        "@last_registered_email"
+      ],
+      [
+        "setItem",
+        "@registered_users_store"
+      ]
+    ],
+    "service_calls": [
+      "candidateService.initRegisteredUsers",
+      "candidateService.getInitials"
+    ],
+    "api_constants": [
+      "CATEGORIES",
+      "SUB_CATEGORIES",
+      "DESIGNATIONS",
+      "JOB_FILTER_DROPDOWNS",
+      "UPDATE_PROFILE",
+      "JOB_FILTER_DROPDOWNS",
+      "UPDATE_PROFILE",
+      "UPDATE_PROFILE",
+      "FETCH_USER_DETAILS"
+    ]
+  },
+  "services\\employerService.js": {
+    "fetches": [
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_SIGNIN}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_SIGNUP}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_REQUEST_RESET}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_VERIFY_PASS_OTP}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_RESET_PASSWORD}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_CREATE_DETAILS}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_DASHBOARD_STATS}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_MY_JOBS}?page=1&limit=20",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_ADD_JOB}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_JOB_DETAILS(id)}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_UPDATE_JOB(id)}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_DELETE_JOB(id)}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_APPLICANTS(jobId)}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_MATCHES(jobId)}",
+      "${API_BASE_URL}${API_ENDPOINTS.EMPLOYER_APPLICANT_DETAILS(id)}"
+    ],
+    "async_storage": [],
+    "service_calls": [],
+    "api_constants": [
+      "EMPLOYER_SIGNIN",
+      "EMPLOYER_SIGNUP",
+      "EMPLOYER_REQUEST_RESET",
+      "EMPLOYER_VERIFY_PASS_OTP",
+      "EMPLOYER_RESET_PASSWORD",
+      "EMPLOYER_CREATE_DETAILS",
+      "EMPLOYER_DASHBOARD_STATS",
+      "EMPLOYER_MY_JOBS",
+      "EMPLOYER_ADD_JOB",
+      "EMPLOYER_JOB_DETAILS",
+      "EMPLOYER_UPDATE_JOB",
+      "EMPLOYER_DELETE_JOB",
+      "EMPLOYER_APPLICANTS",
+      "EMPLOYER_MATCHES",
+      "EMPLOYER_APPLICANT_DETAILS"
+    ]
+  },
+  "services\\jobAlertService.js": {
+    "fetches": [
+      "${API_BASE_URL}${API_ENDPOINTS.JOB_FILTER_DROPDOWNS}"
+    ],
+    "async_storage": [],
+    "service_calls": [],
+    "api_constants": [
+      "JOB_FILTER_DROPDOWNS"
+    ]
+  },
+  "services\\jobService.js": {
+    "fetches": [
+      "${API_BASE_URL}${API_ENDPOINTS.SEARCH_JOBS}?${params.toString()}",
+      "${API_BASE_URL}${API_ENDPOINTS.JOB_FILTER_DROPDOWNS}",
+      "${API_BASE_URL}${API_ENDPOINTS.JOB_DETAILS}?jobId=${id}",
+      "${API_BASE_URL}${API_ENDPOINTS.TOGGLE_SAVED_JOB}",
+      "${API_BASE_URL}${API_ENDPOINTS.APPLY_JOB}"
+    ],
+    "async_storage": [],
+    "service_calls": [
+      "candidateService.getUserProfile"
+    ],
+    "api_constants": [
+      "SEARCH_JOBS",
+      "JOB_FILTER_DROPDOWNS",
+      "JOB_DETAILS",
+      "TOGGLE_SAVED_JOB",
+      "APPLY_JOB"
+    ]
+  }
+}

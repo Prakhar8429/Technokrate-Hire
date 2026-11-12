@@ -1,0 +1,650 @@
+[
+  {
+    "number": 1,
+    "title": "Register",
+    "page": 2,
+    "method": "POST",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/register",
+    "snippet": "   1.   Register   Jobseeker          POST   -   https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/register   Authentication   \u25cf   Not   Required      Request   Headers     Content-Type:   application/json     Request   Body   -     {       \"fullName\" :   \"jay   me\" ,       \"mobileNumbe"
+  },
+  {
+    "number": 2,
+    "title": "Login",
+    "page": 3,
+    "method": "POST",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/login",
+    "snippet": "     2.   Login   Jobseeker        POST   -   https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/login   Authentication   \u25cf   Not   Required      `Request   Headers     Content-Type:   application/json     Request   Body   -     {       \"email\" :   \"jay@me.com\" ,       \"password\" :   \"Al"
+  },
+  {
+    "number": 3,
+    "title": "Send",
+    "page": 4,
+    "method": "POST",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/send-veri\ufb01cation-otp",
+    "snippet": "            3.   Send   Account   Verification   OTP   Jobseeker        POST   -   https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/send-veri\ufb01cation-otp   Authentication   \u25cf   Not   Required      Request   Headers     Content-Type:   application/json     Request   Body   -       {     "
+  },
+  {
+    "number": 4,
+    "title": "Verify",
+    "page": 5,
+    "method": "POST",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/verify-account",
+    "snippet": "       4.   Verify   OTP   Account   Verification   Jobseeker        POST   -   https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/verify-account   Authentication   \u25cf   Not   Required      Request   Headers     Content-Type:   application/json     Request   Body   -       {       \"email\""
+  },
+  {
+    "number": 5,
+    "title": "Forget",
+    "page": 5,
+    "method": "POST",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/forget-pass-sendotp",
+    "snippet": "       5.    Forget   Password    Send   OTP    Jobseeker        POST   -   https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/forget-pass-sendotp  "
+  },
+  {
+    "number": 6,
+    "title": "Verify",
+    "page": 6,
+    "method": "POST",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/verify-pass-otp",
+    "snippet": "         6.   Verify   OTP    Forget   Password     Jobseeker        POST   -   https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/verify-pass-otp     Authentication   \u25cf   Not   Required      Request   Headers     Content-Type:   application/json     Request   Body   -    "
+  },
+  {
+    "number": 7,
+    "title": "Reset",
+    "page": 7,
+    "method": "PATCH",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/resetpassword",
+    "snippet": "       7.   Reset   Password     Jobseeker      PATCH   -   https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/resetpassword   Authentication   \u25cf   Not   Required      Request   Headers   Content-Type:   application/json     Request   Body   -     {       \"email\" : \"jay@me.com\" ,       \""
+  },
+  {
+    "number": 8,
+    "title": "Save",
+    "page": 7,
+    "method": "UNKNOWN",
+    "url": "UNKNOWN",
+    "snippet": "   8.   Save   Full   Profile   Details    Jobseeker       "
+  },
+  {
+    "number": 9,
+    "title": "Get",
+    "page": 13,
+    "method": "GET",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/pro\ufb01le",
+    "snippet": "         9.    Get   User   Profile   all   details   Jobseeker        GET   -   https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/pro\ufb01le   Authentication  "
+  },
+  {
+    "number": 10,
+    "title": "Get",
+    "page": 14,
+    "method": "GET",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/getCategories",
+    "snippet": "             10.   Get   Categories   DropDown   all   details   Jobseeker          GET   -   https://new-job-portal-be-2f6y.onrender.com/api/auth/jobseeker/getCategories   Authentication   \u25cf   Not   Required          Response   -   {  "
+  },
+  {
+    "number": 11,
+    "title": "Get",
+    "page": 16,
+    "method": "UNKNOWN",
+    "url": "UNKNOWN",
+    "snippet": "   11.    Get   SubCategories   DropDown   all   details   Jobseeker   12.    Get   Designation   DropDown   all   details   Jobseeker   13.      Fetch   User   Detail   14.   User    updateProfile    JobSeeker   15.   Get   getJobSeekerPlan   all   details   Jobseeker   Razorpay   Integration   not"
+  },
+  {
+    "number": 12,
+    "title": "Get",
+    "page": 16,
+    "method": "UNKNOWN",
+    "url": "UNKNOWN",
+    "snippet": "   12.    Get   Designation   DropDown   all   details   Jobseeker   13.      Fetch   User   Detail   14.   User    updateProfile    JobSeeker   15.   Get   getJobSeekerPlan   all   details   Jobseeker   Razorpay   Integration   not   yet   updated   at   Render   API   for   16th   and   17th   16."
+  },
+  {
+    "number": 13,
+    "title": "Fetch",
+    "page": 16,
+    "method": "UNKNOWN",
+    "url": "UNKNOWN",
+    "snippet": "   13.      Fetch   User   Detail   14.   User    updateProfile    JobSeeker   15.   Get   getJobSeekerPlan   all   details   Jobseeker   Razorpay   Integration   not   yet   updated   at   Render   API   for   16th   and   17th   16.    CREATE   ORDER   Jobseeker   17.    CREATE   ORDER   EMPLOYER "
+  },
+  {
+    "number": 14,
+    "title": "User",
+    "page": 16,
+    "method": "UNKNOWN",
+    "url": "UNKNOWN",
+    "snippet": "   14.   User    updateProfile    JobSeeker   15.   Get   getJobSeekerPlan   all   details   Jobseeker   Razorpay   Integration   not   yet   updated   at   Render   API   for   16th   and   17th   16.    CREATE   ORDER   Jobseeker   17.    CREATE   ORDER   EMPLOYER   18.    Get   DropDown   Details"
+  },
+  {
+    "number": 15,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   15.   Get   getJobSeekerPlan   all   details   Jobseeker   Razorpay   Integration   not   yet   updated   at   Render   API   for   16th   and   17th   16.    CREATE   ORDER   Jobseeker   17.    CREATE   ORDER   EMPLOYER   18.    Get   DropDown   Details   for   Job   Filter   19.    Get   Job   "
+  },
+  {
+    "number": 16,
+    "title": "CREATE",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   16.    CREATE   ORDER   Jobseeker   17.    CREATE   ORDER   EMPLOYER   18.    Get   DropDown   Details   for   Job   Filter   19.    Get   Job   Alert   API   Jobseeker   20.    APPLY   FOR   THE   JOB   21.   GET   APPLIED   JOBS   22.   Get   JobDetails   by   ID   23.   Add   and   Remove    S"
+  },
+  {
+    "number": 17,
+    "title": "CREATE",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   17.    CREATE   ORDER   EMPLOYER   18.    Get   DropDown   Details   for   Job   Filter   19.    Get   Job   Alert   API   Jobseeker   20.    APPLY   FOR   THE   JOB   21.   GET   APPLIED   JOBS   22.   Get   JobDetails   by   ID   23.   Add   and   Remove    Saved-Job   Jobseeker   24.   Get   S"
+  },
+  {
+    "number": 18,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   18.    Get   DropDown   Details   for   Job   Filter   19.    Get   Job   Alert   API   Jobseeker   20.    APPLY   FOR   THE   JOB   21.   GET   APPLIED   JOBS   22.   Get   JobDetails   by   ID   23.   Add   and   Remove    Saved-Job   Jobseeker   24.   Get   SavedJobs   25.   Get   SearchJob   "
+  },
+  {
+    "number": 19,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   19.    Get   Job   Alert   API   Jobseeker   20.    APPLY   FOR   THE   JOB   21.   GET   APPLIED   JOBS   22.   Get   JobDetails   by   ID   23.   Add   and   Remove    Saved-Job   Jobseeker   24.   Get   SavedJobs   25.   Get   SearchJob   26.   Get   Stats    Landing   Page   27.   Get   Popul"
+  },
+  {
+    "number": 20,
+    "title": "APPLY",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   20.    APPLY   FOR   THE   JOB   21.   GET   APPLIED   JOBS   22.   Get   JobDetails   by   ID   23.   Add   and   Remove    Saved-Job   Jobseeker   24.   Get   SavedJobs   25.   Get   SearchJob   26.   Get   Stats    Landing   Page   27.   Get   Popular   Vacancies   Landing   Page   28.   Get  "
+  },
+  {
+    "number": 21,
+    "title": "GET",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   21.   GET   APPLIED   JOBS   22.   Get   JobDetails   by   ID   23.   Add   and   Remove    Saved-Job   Jobseeker   24.   Get   SavedJobs   25.   Get   SearchJob   26.   Get   Stats    Landing   Page   27.   Get   Popular   Vacancies   Landing   Page   28.   Get   Popular   Categories   Landing  "
+  },
+  {
+    "number": 22,
+    "title": "Get",
+    "page": 16,
+    "method": "UNKNOWN",
+    "url": "UNKNOWN",
+    "snippet": "   22.   Get   JobDetails   by   ID   23.   Add   and   Remove    Saved-Job   Jobseeker   24.   Get   SavedJobs   25.   Get   SearchJob   26.   Get   Stats    Landing   Page   27.   Get   Popular   Vacancies   Landing   Page   28.   Get   Popular   Categories   Landing   Page   29.   Get   Recent   "
+  },
+  {
+    "number": 23,
+    "title": "Add",
+    "page": 16,
+    "method": "UNKNOWN",
+    "url": "UNKNOWN",
+    "snippet": "   23.   Add   and   Remove    Saved-Job   Jobseeker   24.   Get   SavedJobs   25.   Get   SearchJob   26.   Get   Stats    Landing   Page   27.   Get   Popular   Vacancies   Landing   Page   28.   Get   Popular   Categories   Landing   Page   29.   Get   Recent   Jobs    Landing   Page   30.   Get "
+  },
+  {
+    "number": 24,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   24.   Get   SavedJobs   25.   Get   SearchJob   26.   Get   Stats    Landing   Page   27.   Get   Popular   Vacancies   Landing   Page   28.   Get   Popular   Categories   Landing   Page   29.   Get   Recent   Jobs    Landing   Page   30.   Get   Top   Companies   Landing   Page   31.   Get   Job"
+  },
+  {
+    "number": 25,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   25.   Get   SearchJob   26.   Get   Stats    Landing   Page   27.   Get   Popular   Vacancies   Landing   Page   28.   Get   Popular   Categories   Landing   Page   29.   Get   Recent   Jobs    Landing   Page   30.   Get   Top   Companies   Landing   Page   31.   Get   Jobseeker   Dashboard   #Te"
+  },
+  {
+    "number": 26,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   26.   Get   Stats    Landing   Page   27.   Get   Popular   Vacancies   Landing   Page   28.   Get   Popular   Categories   Landing   Page   29.   Get   Recent   Jobs    Landing   Page   30.   Get   Top   Companies   Landing   Page   31.   Get   Jobseeker   Dashboard   #Terms   &   Services   32."
+  },
+  {
+    "number": 27,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   27.   Get   Popular   Vacancies   Landing   Page   28.   Get   Popular   Categories   Landing   Page   29.   Get   Recent   Jobs    Landing   Page   30.   Get   Top   Companies   Landing   Page   31.   Get   Jobseeker   Dashboard   #Terms   &   Services   32.   GET   Jobseeker   Terms   And   Ser"
+  },
+  {
+    "number": 28,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   28.   Get   Popular   Categories   Landing   Page   29.   Get   Recent   Jobs    Landing   Page   30.   Get   Top   Companies   Landing   Page   31.   Get   Jobseeker   Dashboard   #Terms   &   Services   32.   GET   Jobseeker   Terms   And   Services   -   EMPLOYER   1.    Register   Employer   "
+  },
+  {
+    "number": 29,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   29.   Get   Recent   Jobs    Landing   Page   30.   Get   Top   Companies   Landing   Page   31.   Get   Jobseeker   Dashboard   #Terms   &   Services   32.   GET   Jobseeker   Terms   And   Services   -   EMPLOYER   1.    Register   Employer   2.     Login   Employer   3.     Request   For   Res"
+  },
+  {
+    "number": 30,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   30.   Get   Top   Companies   Landing   Page   31.   Get   Jobseeker   Dashboard   #Terms   &   Services   32.   GET   Jobseeker   Terms   And   Services   -   EMPLOYER   1.    Register   Employer   2.     Login   Employer   3.     Request   For   Reset   Password   4.   VERIFY   OTP   Password  "
+  },
+  {
+    "number": 31,
+    "title": "Get",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   31.   Get   Jobseeker   Dashboard   #Terms   &   Services   32.   GET   Jobseeker   Terms   And   Services   -   EMPLOYER   1.    Register   Employer   2.     Login   Employer   3.     Request   For   Reset   Password   4.   VERIFY   OTP   Password   Reset   5.      Reset   password   6.      Get"
+  },
+  {
+    "number": 32,
+    "title": "GET",
+    "page": 16,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   32.   GET   Jobseeker   Terms   And   Services   -   EMPLOYER   1.    Register   Employer   2.     Login   Employer   3.     Request   For   Reset   Password   4.   VERIFY   OTP   Password   Reset   5.      Reset   password   6.      Get   Email   and   Send   OTP   for   Verification   7.      V"
+  },
+  {
+    "number": 33,
+    "title": "GET",
+    "page": 17,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   33.   GET   Credit   History   #   Credit   Deduction   Apis   34.   POST     Deduct   database   credit   35.   POST     Deduct    Profile   Unlock   credit   #   Transactions    Apis   36.   GET   billing   transactions   37.   GET    Billing   Transaction   #   Employer   Plan   Query   36.   "
+  },
+  {
+    "number": 34,
+    "title": "POST",
+    "page": 17,
+    "method": "POST",
+    "url": "UNKNOWN",
+    "snippet": "   34.   POST     Deduct   database   credit   35.   POST     Deduct    Profile   Unlock   credit   #   Transactions    Apis   36.   GET   billing   transactions   37.   GET    Billing   Transaction   #   Employer   Plan   Query   36.   Create   Query   ADMIN   #AUTH  "
+  },
+  {
+    "number": 35,
+    "title": "POST",
+    "page": 17,
+    "method": "POST",
+    "url": "UNKNOWN",
+    "snippet": "   35.   POST     Deduct    Profile   Unlock   credit   #   Transactions    Apis   36.   GET   billing   transactions   37.   GET    Billing   Transaction   #   Employer   Plan   Query   36.   Create   Query   ADMIN   #AUTH  "
+  },
+  {
+    "number": 36,
+    "title": "GET",
+    "page": 17,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   36.   GET   billing   transactions   37.   GET    Billing   Transaction   #   Employer   Plan   Query   36.   Create   Query   ADMIN   #AUTH  "
+  },
+  {
+    "number": 37,
+    "title": "GET",
+    "page": 17,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   37.   GET    Billing   Transaction   #   Employer   Plan   Query   36.   Create   Query   ADMIN   #AUTH  "
+  },
+  {
+    "number": 38,
+    "title": "DELETE",
+    "page": 19,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   38.DELETE   JOB   BY   ID   ALL   JOBs   39.GET   SubCategories   40.GET   Employer   Dropdown   #CREDIT   MANAGEMENT   41.Get   Credits   api-   42.   Update   Credit-   #TERMS   &   SERVICES   43.   Create   terms   and   service   Api   44.   get   terms   and   service   Api   45.   Update   "
+  },
+  {
+    "number": 39,
+    "title": "GET",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   39.GET   SubCategories   40.GET   Employer   Dropdown   #CREDIT   MANAGEMENT   41.Get   Credits   api-   42.   Update   Credit-   #TERMS   &   SERVICES   43.   Create   terms   and   service   Api   44.   get   terms   and   service   Api   45.   Update   terms   and   service   Api   #JOBSEEKER "
+  },
+  {
+    "number": 40,
+    "title": "GET",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   40.GET   Employer   Dropdown   #CREDIT   MANAGEMENT   41.Get   Credits   api-   42.   Update   Credit-   #TERMS   &   SERVICES   43.   Create   terms   and   service   Api   44.   get   terms   and   service   Api   45.   Update   terms   and   service   Api   #JOBSEEKER   MANAGEMENT   46.   Crea"
+  },
+  {
+    "number": 41,
+    "title": "Get",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   41.Get   Credits   api-   42.   Update   Credit-   #TERMS   &   SERVICES   43.   Create   terms   and   service   Api   44.   get   terms   and   service   Api   45.   Update   terms   and   service   Api   #JOBSEEKER   MANAGEMENT   46.   Create   Category   47.   GET   ALL   Category   48.   Cre"
+  },
+  {
+    "number": 42,
+    "title": "Update",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   42.   Update   Credit-   #TERMS   &   SERVICES   43.   Create   terms   and   service   Api   44.   get   terms   and   service   Api   45.   Update   terms   and   service   Api   #JOBSEEKER   MANAGEMENT   46.   Create   Category   47.   GET   ALL   Category   48.   Create   SubCategory   49.   "
+  },
+  {
+    "number": 43,
+    "title": "Create",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   43.   Create   terms   and   service   Api   44.   get   terms   and   service   Api   45.   Update   terms   and   service   Api   #JOBSEEKER   MANAGEMENT   46.   Create   Category   47.   GET   ALL   Category   48.   Create   SubCategory   49.   Get   All    SubCategory   by   Category   ID   5"
+  },
+  {
+    "number": 44,
+    "title": "get",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   44.   get   terms   and   service   Api   45.   Update   terms   and   service   Api   #JOBSEEKER   MANAGEMENT   46.   Create   Category   47.   GET   ALL   Category   48.   Create   SubCategory   49.   Get   All    SubCategory   by   Category   ID   50.   Create   Designation   51.   GET   Desig"
+  },
+  {
+    "number": 45,
+    "title": "Update",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   45.   Update   terms   and   service   Api   #JOBSEEKER   MANAGEMENT   46.   Create   Category   47.   GET   ALL   Category   48.   Create   SubCategory   49.   Get   All    SubCategory   by   Category   ID   50.   Create   Designation   51.   GET   Designation   52.   Update   Category   53.   D"
+  },
+  {
+    "number": 46,
+    "title": "Create",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   46.   Create   Category   47.   GET   ALL   Category   48.   Create   SubCategory   49.   Get   All    SubCategory   by   Category   ID   50.   Create   Designation   51.   GET   Designation   52.   Update   Category   53.   DELETE   Category   54.   Update    SubCategory   55.   DELETE   Sub   C"
+  },
+  {
+    "number": 47,
+    "title": "GET",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   47.   GET   ALL   Category   48.   Create   SubCategory   49.   Get   All    SubCategory   by   Category   ID   50.   Create   Designation   51.   GET   Designation   52.   Update   Category   53.   DELETE   Category   54.   Update    SubCategory   55.   DELETE   Sub   Category   56.   Update    "
+  },
+  {
+    "number": 48,
+    "title": "Create",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   48.   Create   SubCategory   49.   Get   All    SubCategory   by   Category   ID   50.   Create   Designation   51.   GET   Designation   52.   Update   Category   53.   DELETE   Category   54.   Update    SubCategory   55.   DELETE   Sub   Category   56.   Update    Designation   57.   DELETE   "
+  },
+  {
+    "number": 49,
+    "title": "Get",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   49.   Get   All    SubCategory   by   Category   ID   50.   Create   Designation   51.   GET   Designation   52.   Update   Category   53.   DELETE   Category   54.   Update    SubCategory   55.   DELETE   Sub   Category   56.   Update    Designation   57.   DELETE   Designation   58.   GET   JOB"
+  },
+  {
+    "number": 50,
+    "title": "Create",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   50.   Create   Designation   51.   GET   Designation   52.   Update   Category   53.   DELETE   Category   54.   Update    SubCategory   55.   DELETE   Sub   Category   56.   Update    Designation   57.   DELETE   Designation   58.   GET   JOBSEEKERS   BY   Designation   ID  "
+  },
+  {
+    "number": 51,
+    "title": "GET",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   51.   GET   Designation   52.   Update   Category   53.   DELETE   Category   54.   Update    SubCategory   55.   DELETE   Sub   Category   56.   Update    Designation   57.   DELETE   Designation   58.   GET   JOBSEEKERS   BY   Designation   ID  "
+  },
+  {
+    "number": 52,
+    "title": "Update",
+    "page": 19,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   52.   Update   Category   53.   DELETE   Category   54.   Update    SubCategory   55.   DELETE   Sub   Category   56.   Update    Designation   57.   DELETE   Designation   58.   GET   JOBSEEKERS   BY   Designation   ID  "
+  },
+  {
+    "number": 53,
+    "title": "DELETE",
+    "page": 19,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   53.   DELETE   Category   54.   Update    SubCategory   55.   DELETE   Sub   Category   56.   Update    Designation   57.   DELETE   Designation   58.   GET   JOBSEEKERS   BY   Designation   ID  "
+  },
+  {
+    "number": 54,
+    "title": "Update",
+    "page": 19,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   54.   Update    SubCategory   55.   DELETE   Sub   Category   56.   Update    Designation   57.   DELETE   Designation   58.   GET   JOBSEEKERS   BY   Designation   ID  "
+  },
+  {
+    "number": 55,
+    "title": "DELETE",
+    "page": 19,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   55.   DELETE   Sub   Category   56.   Update    Designation   57.   DELETE   Designation   58.   GET   JOBSEEKERS   BY   Designation   ID  "
+  },
+  {
+    "number": 56,
+    "title": "Update",
+    "page": 19,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   56.   Update    Designation   57.   DELETE   Designation   58.   GET   JOBSEEKERS   BY   Designation   ID  "
+  },
+  {
+    "number": 57,
+    "title": "DELETE",
+    "page": 19,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   57.   DELETE   Designation   58.   GET   JOBSEEKERS   BY   Designation   ID  "
+  },
+  {
+    "number": 58,
+    "title": "GET",
+    "page": 19,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   58.   GET   JOBSEEKERS   BY   Designation   ID  "
+  },
+  {
+    "number": 59,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/createEmployer",
+    "snippet": "  59.   GET   JOBSEEKER   BY   ID   60.   ADD   Employee   from   admin     POST   :   https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/createEmployer   61   Get   ALL   Candidates   62   GET   Candidates   by   Id   63   GET   APPROVE   and   REJECT   CANDIDATE   DATABASE   64.   Uplo"
+  },
+  {
+    "number": 60,
+    "title": "ADD",
+    "page": 20,
+    "method": "POST",
+    "url": "https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/createEmployer",
+    "snippet": "   60.   ADD   Employee   from   admin     POST   :   https://new-job-portal-be-2f6y.onrender.com/api/admin/employer/createEmployer   61   Get   ALL   Candidates   62   GET   Candidates   by   Id   63   GET   APPROVE   and   REJECT   CANDIDATE   DATABASE   64.   Upload   Candidate   Database   ADMIN"
+  },
+  {
+    "number": 64,
+    "title": "Upload",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   64.   Upload   Candidate   Database   ADMIN   65.   Approve   Candidate   Database   -   66.   Reject   Candidate   Database   -   67.   Update   Employee   by   Admin   68.   GET   ALL   CATEGORY   69.   GET   ALL   DESIGNATION   Billing   Transaction   70.   GET   ALL   Billing   transactions  "
+  },
+  {
+    "number": 65,
+    "title": "Approve",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   65.   Approve   Candidate   Database   -   66.   Reject   Candidate   Database   -   67.   Update   Employee   by   Admin   68.   GET   ALL   CATEGORY   69.   GET   ALL   DESIGNATION   Billing   Transaction   70.   GET   ALL   Billing   transactions   71.   GET   ALL   Billing   transaction   Fre"
+  },
+  {
+    "number": 66,
+    "title": "Reject",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   66.   Reject   Candidate   Database   -   67.   Update   Employee   by   Admin   68.   GET   ALL   CATEGORY   69.   GET   ALL   DESIGNATION   Billing   Transaction   70.   GET   ALL   Billing   transactions   71.   GET   ALL   Billing   transaction   Freelance   HR   70.   Create   Freelance   HR"
+  },
+  {
+    "number": 67,
+    "title": "Update",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   67.   Update   Employee   by   Admin   68.   GET   ALL   CATEGORY   69.   GET   ALL   DESIGNATION   Billing   Transaction   70.   GET   ALL   Billing   transactions   71.   GET   ALL   Billing   transaction   Freelance   HR   70.   Create   Freelance   HR   71.    Update   Freelance   HR   72.   "
+  },
+  {
+    "number": 68,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   68.   GET   ALL   CATEGORY   69.   GET   ALL   DESIGNATION   Billing   Transaction   70.   GET   ALL   Billing   transactions   71.   GET   ALL   Billing   transaction   Freelance   HR   70.   Create   Freelance   HR   71.    Update   Freelance   HR   72.    GET   ALL   Freelance   HR   73.    GE"
+  },
+  {
+    "number": 69,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   69.   GET   ALL   DESIGNATION   Billing   Transaction   70.   GET   ALL   Billing   transactions   71.   GET   ALL   Billing   transaction   Freelance   HR   70.   Create   Freelance   HR   71.    Update   Freelance   HR   72.    GET   ALL   Freelance   HR   73.    GET    Freelance   HR   74.    "
+  },
+  {
+    "number": 70,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   70.   GET   ALL   Billing   transactions   71.   GET   ALL   Billing   transaction   Freelance   HR   70.   Create   Freelance   HR   71.    Update   Freelance   HR   72.    GET   ALL   Freelance   HR   73.    GET    Freelance   HR   74.    DELETE    Freelance   HR   Freelance   Job   Post   75. "
+  },
+  {
+    "number": 71,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   71.   GET   ALL   Billing   transaction   Freelance   HR   70.   Create   Freelance   HR   71.    Update   Freelance   HR   72.    GET   ALL   Freelance   HR   73.    GET    Freelance   HR   74.    DELETE    Freelance   HR   Freelance   Job   Post   75.   Create   Freelance   Job   Post   76.   U"
+  },
+  {
+    "number": 72,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   72.    GET   ALL   Freelance   HR   73.    GET    Freelance   HR   74.    DELETE    Freelance   HR   Freelance   Job   Post   75.   Create   Freelance   Job   Post   76.   Update   Freelance   Job   Post   77.    GET   ALL   Freelance   Job   Post   78.    GET    Freelance   Job   Post   79.    G"
+  },
+  {
+    "number": 73,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   73.    GET    Freelance   HR   74.    DELETE    Freelance   HR   Freelance   Job   Post   75.   Create   Freelance   Job   Post   76.   Update   Freelance   Job   Post   77.    GET   ALL   Freelance   Job   Post   78.    GET    Freelance   Job   Post   79.    GET    Freelance   Job   Post   80.  "
+  },
+  {
+    "number": 74,
+    "title": "DELETE",
+    "page": 20,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   74.    DELETE    Freelance   HR   Freelance   Job   Post   75.   Create   Freelance   Job   Post   76.   Update   Freelance   Job   Post   77.    GET   ALL   Freelance   Job   Post   78.    GET    Freelance   Job   Post   79.    GET    Freelance   Job   Post   80.    DELETE    Freelance   Job   P"
+  },
+  {
+    "number": 75,
+    "title": "Create",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   75.   Create   Freelance   Job   Post   76.   Update   Freelance   Job   Post   77.    GET   ALL   Freelance   Job   Post   78.    GET    Freelance   Job   Post   79.    GET    Freelance   Job   Post   80.    DELETE    Freelance   Job   Post   Employer   Plan   Query   81.   Update   Employer   P"
+  },
+  {
+    "number": 76,
+    "title": "Update",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   76.   Update   Freelance   Job   Post   77.    GET   ALL   Freelance   Job   Post   78.    GET    Freelance   Job   Post   79.    GET    Freelance   Job   Post   80.    DELETE    Freelance   Job   Post   Employer   Plan   Query   81.   Update   Employer   Plan   Status   82.    GET   ALL   Employ"
+  },
+  {
+    "number": 77,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   77.    GET   ALL   Freelance   Job   Post   78.    GET    Freelance   Job   Post   79.    GET    Freelance   Job   Post   80.    DELETE    Freelance   Job   Post   Employer   Plan   Query   81.   Update   Employer   Plan   Status   82.    GET   ALL   Employer   Plan   Query   83.    GET    Employ"
+  },
+  {
+    "number": 78,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   78.    GET    Freelance   Job   Post   79.    GET    Freelance   Job   Post   80.    DELETE    Freelance   Job   Post   Employer   Plan   Query   81.   Update   Employer   Plan   Status   82.    GET   ALL   Employer   Plan   Query   83.    GET    Employer   Plan   Query   84.    DELETE    Employe"
+  },
+  {
+    "number": 79,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   79.    GET    Freelance   Job   Post   80.    DELETE    Freelance   Job   Post   Employer   Plan   Query   81.   Update   Employer   Plan   Status   82.    GET   ALL   Employer   Plan   Query   83.    GET    Employer   Plan   Query   84.    DELETE    Employer   Query   Plan   HR   1.Login   HR   "
+  },
+  {
+    "number": 80,
+    "title": "DELETE",
+    "page": 20,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   80.    DELETE    Freelance   Job   Post   Employer   Plan   Query   81.   Update   Employer   Plan   Status   82.    GET   ALL   Employer   Plan   Query   83.    GET    Employer   Plan   Query   84.    DELETE    Employer   Query   Plan   HR   1.Login   HR     Post:-   2.Send   OTP:-   3.Verify   "
+  },
+  {
+    "number": 81,
+    "title": "Update",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   81.   Update   Employer   Plan   Status   82.    GET   ALL   Employer   Plan   Query   83.    GET    Employer   Plan   Query   84.    DELETE    Employer   Query   Plan   HR   1.Login   HR     Post:-   2.Send   OTP:-   3.Verify   admin   Otp:-   Post:-   4.    Reset   admin   password:-   Post:-  "
+  },
+  {
+    "number": 82,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   82.    GET   ALL   Employer   Plan   Query   83.    GET    Employer   Plan   Query   84.    DELETE    Employer   Query   Plan   HR   1.Login   HR     Post:-   2.Send   OTP:-   3.Verify   admin   Otp:-   Post:-   4.    Reset   admin   password:-   Post:-  "
+  },
+  {
+    "number": 83,
+    "title": "GET",
+    "page": 20,
+    "method": "GET",
+    "url": "UNKNOWN",
+    "snippet": "   83.    GET    Employer   Plan   Query   84.    DELETE    Employer   Query   Plan   HR   1.Login   HR     Post:-   2.Send   OTP:-   3.Verify   admin   Otp:-   Post:-   4.    Reset   admin   password:-   Post:-  "
+  },
+  {
+    "number": 84,
+    "title": "DELETE",
+    "page": 20,
+    "method": "DELETE",
+    "url": "UNKNOWN",
+    "snippet": "   84.    DELETE    Employer   Query   Plan   HR   1.Login   HR     Post:-   2.Send   OTP:-   3.Verify   admin   Otp:-   Post:-   4.    Reset   admin   password:-   Post:-  "
+  }
+]
